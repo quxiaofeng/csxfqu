@@ -19,6 +19,9 @@ description: PolyU, Computing Dept., library and my reading history.
 + [__Intranet__](https://intranet.comp.polyu.edu.hk/)  
 + [__iPrint Printer Driver__](http://csnw03.comp.polyu.edu.hk/ipp)    
 
+## Test
++ URL: {% post_url 2012-06-25-segmentation-evaluation %}
+
 ### Read History    
 
 <script type="text/javascript" src="http://www.douban.com/service/badge/gBlueBird/?show=collection&amp;select=random&amp;n=18&amp;columns=6&amp;hidelogo=yes&amp;cat=book" ></script>
