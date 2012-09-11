@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [coding, software engineering]
 description: Comp5222 and thoughts on software testing
 ---

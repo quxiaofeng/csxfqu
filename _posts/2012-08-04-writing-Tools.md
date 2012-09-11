@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [academic, writing, paper]
 description: Tools and websites helping writing.
 ---

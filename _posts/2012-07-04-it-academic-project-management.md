@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [project management, academic]
 ---
     

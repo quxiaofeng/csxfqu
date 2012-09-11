@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [gtd, plan]
 ---
 

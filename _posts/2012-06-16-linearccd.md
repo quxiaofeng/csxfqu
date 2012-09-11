@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Linear CCD Websites  
-category: device
 tags: [linear CCD, palmprint, device]
 description: The linear ccd sensors collected.
 ---

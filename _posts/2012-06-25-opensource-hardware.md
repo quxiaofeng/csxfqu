@@ -1,6 +1,5 @@
 ---
 layout: post
-category : device
 tags : [chip, circuit]
 title: Open Source Hardware
 description: Opensource in another field.

@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [writing, paper, academy]
 description: Some tips for writing
 ---

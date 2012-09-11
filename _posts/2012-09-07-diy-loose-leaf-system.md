@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [writing, GTD, calendar]
 description: Personal loose leaf system for different purposes.
 ---

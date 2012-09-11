@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [jekyll, blog, ruby, python]
 description: Some tips and tricks of jekyll. Windows is still not a best develop platform. I have to tweak a little to run jekyll smoothly. Here are the notes for myself, and also for other people who may encounter similar problems.
 ---

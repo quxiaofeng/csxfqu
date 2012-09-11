@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [life, hongkong, shenzhen]
 description: Websites for every day life, which include weather, banks, cellphone, online videos, cinemas, and shoppings.
 ---

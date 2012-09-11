@@ -1,6 +1,5 @@
 ---
 layout: post
-category : device
 title: Ergonomics
 tags: [door knob, design, device]
 description: The size of the device is very important. Which size is most confortable for people to use? It is very hard to tell. Here we collect some infos about the ergonomics research, which studys general parameters of human being.

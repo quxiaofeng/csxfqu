@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [coding, software]
 description: Websites and softwares for coding.
 ---

@@ -1,6 +1,5 @@
 ---
 layout: post
-category : blog
 tags : [notebook]
 description: A webpage started by the disputed student notebook ownership 2012. Summarizing all the computers I have. The performance tests, OS, and usage guides. And also thoughts about how to upgrade or improve and maintain a perfect working condition.
 ---

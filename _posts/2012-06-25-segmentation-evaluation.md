@@ -1,6 +1,5 @@
 ---
 layout: post
-category : survey
 tags : [segmentation]
 title: Image Segmentation Evaluation
 description: The ground truth evaluation of image segmentation.

@@ -1,6 +1,5 @@
 ---
 layout: post
-category: blog
 tags: [blog, ruby, markdown, writing]
 description: The manual and guide of jekyll. Backup for reference.
 ---
