@@ -12,6 +12,8 @@ description: Comp5222 and thoughts on software testing
 + No. of Credits	:	3
 + Examinations  :   [Click here to download prior examination papers]({{ site.url }}\images\examinations.7z)  
 
+#### [works in github](https://github.com/quxiaofeng/comp5222)  
+
 ## Books  
 
 #### Rapid Testing [in lib](https://library.polyu.edu.hk/record=b1628925~S6) [in douban](http://book.douban.com/subject/7925700/)  
