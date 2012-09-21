@@ -14,6 +14,16 @@ description: Comp5222 and thoughts on software testing
 
 #### [works in github](https://github.com/quxiaofeng/comp5222)  
 
+#### New Refs
+1. Black, R., Pragmatic Software Testing: Becoming An Effective and Efficient Test Professional, Wiley, 2007 [in douban](http://book.douban.com/subject/2237322/) and also can be found [here](http://extratorrent.com/torrent_download/1434950/Pragmatic+Software+Testing%3A+Becoming+an+Effective+and+Efficient+Test+Professional.torrent)
+2. IEEE Std. 829, 1008, 1012, 1059, 1028, 1044 (These can be found below.)
+3. Whittaker, J.A., How to break software, Addison-Wesley, 2003 [in douban](http://book.douban.com/subject/2697130/)
+4. [How Google do their testing?](http://googletesting.blogspot.com)
+5. [Software Testing and Quality Bookshelf](http://www.soft.com/Institute/QualitySource/name.list.html)
+6. [Software QA Tesing and Test Tool Resources](http://www.aptest.com/resources.html)
+
+## [Software Product Quality](http://en.wikipedia.org/wiki/ISO_9126)
+
 ## Books  
 
 #### Rapid Testing [in lib](https://library.polyu.edu.hk/record=b1628925~S6) [in douban](http://book.douban.com/subject/7925700/)  

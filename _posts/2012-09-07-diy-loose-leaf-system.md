@@ -5,7 +5,13 @@ description: Personal loose leaf system for different purposes.
 ---
 
 ## Calendar, To-do list and Schedule
-DailyPlanner in [Github](https://github.com/quxiaofeng/DailyPlanner)
+Daily Planner in [Github](https://github.com/quxiaofeng/daily_planner)
+
+## LaTeX resources
+
+#### filofax system
++ autofilo.sty
++ [calendar bundle](http://www.ctan.org/tex-archive/macros/latex/contrib/calendar)
 
 ## Stationery System
 
@@ -17,7 +23,13 @@ DailyPlanner in [Github](https://github.com/quxiaofeng/DailyPlanner)
 + standard two hole puncher(80mm)
 + [A5 leather 6-hole binder](http://trade.taobao.com/trade/detail/tradeSnap.htm?spm=a1z09.2.9.231&tradeID=145951262061323)
 
+__This A5 system should be reading or large scale writting__
 
 #### A6 System
 + A6 loose leaf organizer
 + [Adjustable six hole puncher](http://item.taobao.com/item.htm?id=12339657674)
+
+__This A6 system is more suitable for note taking, the calendar and schedule__
+
+
+
