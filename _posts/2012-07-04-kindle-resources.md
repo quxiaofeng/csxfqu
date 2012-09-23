@@ -33,21 +33,8 @@ tags : [reading, kindle]
 \documentclass[a4paper]{article}
 \usepackage{pdfpages}
 \begin{document}
-\includepdf[pages=-]{dm7_toc}
-\includepdf[pages=-]{dm7_ch1}
-\includepdf[pages=-]{dm7_ch2}
-\includepdf[pages=-]{dm7_ch3}
-\includepdf[pages=-]{dm7_ch4}
-\includepdf[pages=-]{dm7_ch5}
-\includepdf[pages=-]{dm7_ch6}
-\includepdf[pages=-]{dm7_ch7}
-\includepdf[pages=-]{dm7_ch8}
-\includepdf[pages=-]{dm7_ch9}
-\includepdf[pages=-]{dm7_ch10}
-\includepdf[pages=-]{dm7_ch11}
-\includepdf[pages=-]{dm7_ch12}
-\includepdf[pages=-]{dm7_ch13}
-\includepdf[pages=-]{dm7_appendix}
+\includepdf[pages=-]{paper1}
+\includepdf[pages=-]{paper2}
 \end{document}
 {% endhighlight %}
 
