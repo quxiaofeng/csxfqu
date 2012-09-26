@@ -17,6 +17,9 @@ description: Shortcuts to daily life and work.
 + The source code of this blog is hosted in both [gitcafe](https://gitcafe.com/quxiaofeng/csxfqu) and [github](https://github.com/quxiaofeng/csxfqu).    
 + [The black tube theme](https://github.com/pizn/blogTheme) used for this blog, and the [developer's post](http://www.pizn.me/2012/05/04/the-jekyll-blog-theme-black-cube.html) about it.    
     
+
+## TODO List
+1. Borrow this book "QA76.625 .A88 2012"
      
 ## Reading History      
     
