@@ -19,7 +19,22 @@ description: Shortcuts to daily life and work.
     
 
 ## TODO List
+
 1. Borrow this book "QA76.625 .A88 2012"
+2. Check these books
+
+
+~~~~~~
+
+Clever algorithms : nature-inspired programming recipes
+Brownlee, Jason
+2011 , Ordered on 2012-05-21
+
+CUCUMBER BOOK, THE: BEHAVIOUR-DRIVEN DEVELOPMENT FOR TESTERS AND DEVELOPERS
+WYNNE, MATT
+Ordered on 2012-02-07
+
+~~~~~~~~~~
      
 ## Reading History      
     
