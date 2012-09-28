@@ -77,3 +77,11 @@ PAUSE
 
 ### [Liquid guide](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
 + And the [patch](http://bradleygrainger.com/2011/09/07/how-to-use-github-pages-on-windows.html) under windows
+
+### Bibtex Citation
+
++ [Jekyll-citation](https://github.com/archome/jekyll-citation)
++ [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar)
+
+
+
