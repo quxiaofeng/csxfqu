@@ -5,7 +5,7 @@ title: Open Source Hardware
 description: Opensource in another field.
 ---
 
-### Guides and Wikis    
+## Guides and Wikis    
     
 - [A guide (in Chinese)](http://www.52solution.com/article/articleinfo/id/80009270)    
 - [OpenXC Platform](http://openxcplatform.com/)    
@@ -20,14 +20,19 @@ description: Opensource in another field.
 - [Frankencamera](http://graphics.stanford.edu/papers/fcam/)    
 - [Another Survey](http://blog.21ic.com/user1/8413/archives/2012/88556.html)    
     
-### Groups     
+## Groups     
 
 - [arduino.hk](http://arduino.hk/)   
 - [Open Hardware Summit](http://summit.oshwa.org/)    
 - [Bug Labs](http://www.buglabs.net/ford-buglabs)    
 - [Open Source Hardware OSHW.org](http://freedomdefined.org/OSHW)   
 
-
-### Mainland China    
+## Mainland China    
     
 - [Oriental Hardware Research Center](http://www.orihard.com/ku.asp)    
+
+## Chips
+
+- [AM3359](http://www.ti.com/product/am3359)
+
+![AM3359]({{ site.url }}/images/am3359.jpg)

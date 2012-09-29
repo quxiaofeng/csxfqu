@@ -27,7 +27,8 @@ description: Websites and softwares for coding.
 
 ## Tools  
 + [CMake](http://www.cmake.org/)  
-+ [Git](http://git-scm.com/)  
++ [Git](http://git-scm.com/)
+[Other GUI git frontends](http://maketecheasier.com/6-useful-graphical-git-client-for-linux/2012/01/18)
   
 ## Languages  
 + [Ruby](http://www.ruby-lang.org/en/)  
@@ -51,14 +52,12 @@ description: Websites and softwares for coding.
   - [FreemindMMX Git Patch](http://redmine.ossxp.com/redmine/projects/freemind-mmx/wiki/IndexEn)  
   - [freemind-hacks](https://github.com/ossxp-com/freemind-hacks)  
   - [Freeplane](http://freeplane.sourceforge.net/wiki/index.php/Main_Page)  
++ [Doxygen](http://www.stack.nl/~dimitri/doxygen/docblocks.html), auto doc generator.
 
 ## Mathematics
 + [gnuplot](http://www.gnuplot.info/)  
 + [QtiPlot](http://soft.proindependent.com/qtiplot.html)  
 + [SciDAVis](http://scidavis.sourceforge.net/about/index.html)
 
-## Writing Tools
-+ [TeX Live](http://www.tug.org/texlive/)  
-+ [PolyU Beamer Theme](https://github.com/quxiaofeng/PolyU_Beamer_Theme)
-+ [Pandoc](http://johnmacfarlane.net/pandoc/installing.html)
+## [Writing Tools]({{ site.url}}{% post_url 2012-08-04-writing-tools %})
 

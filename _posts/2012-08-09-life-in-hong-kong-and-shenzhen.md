@@ -25,7 +25,8 @@ description: Websites for every day life, which include weather, banks, cellphon
 |                 | [youku](http://www.youku.com/)                                                                  |  
 |                 | [tudou](http://www.tudou.com/)                                                                  |    
 |                 | [topway](http://www.topway.cn/)                                                                 |  
-|                 | [iqiyi](http://www.iqiyi.com/)                                                                  |    
+|                 | [iqiyi](http://www.iqiyi.com/)                                                                  | 
+|                 | [sugoideas](http://sugoideas.com/), Taiwanese Entertainment                                     |
 
 
 ## Cinemas

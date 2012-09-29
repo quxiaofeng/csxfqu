@@ -6,20 +6,36 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 
 ## [ThinkPad x230(i7-3520)](http://www.hknotebook.com/hkust2012/product/main.jsp?view=product&pid=5&brand=lenovo)
 #### _A DREAM COMES TRUE_
-3-year Intenational Warranty  
-i7-3520M, 4MB Cache/2.9GHz/1600MHz FSB  
-**2 x 8GiB** DDR3 1600MHz (Max. 16GB)  
-**128 GiB M5Pro SSD**  
-12.5", 1366 x 768  
-720p HD Webcam  
-Integrated Graphics  
-Lithium Ion 6-cell/Up to 9.9 hours  
-1.34kg  
+    
+>   3-year Intenational Warranty  
+>   i7-3520M, 4MB Cache/2.9GHz/1600MHz FSB  
+>   **2 x 8GiB** DDR3 1600MHz (Max. 16GB)  
+>   **128 GB M5Pro SSD**  
+>   **16 GB SD card**, as auxilary storage. 30 MiB/s writing speed  
+>   12.5", 1366 x 768  
+>   720p HD Webcam  
+>   Integrated Graphics  
+>   Lithium Ion 6-cell/Up to 9.9 hours  
+>   1.34kg  
+
+- Plextor M5 Pro 128GB SSD Speed Test with AS SSD Benchmark
+
+![SSD speed test]({{ site.url }}/images/ssd_speedtest.png)
+
+- 4 GiB RAM Disk Speed Test using DataRam
+
+![RAM disk speed test]({{ site.url }}/images/ramdisk_speedtest.png)
+
+- Windows Experience Index with SSD / 16 GiB RAM / 2 GiB Display RAM
+
+![windows 7 experience index]({{ site.url }}/images/windows_experience.png)
+
 
 - Trying to find a friend in HKUST/HKBU/CITYU. **Solved, THANKS to ZHM.**
-- Added a 128 GiB 2.5" SSD as the system disk
-- Added two 8 GiB DDR3 memory
 - *Delayed* Adding a WWAN module or a **32GB mSATA** as a backup system.
+- Maybe try a 90 MiB/s SD card
+
+#### [XP Installation Guide on IVB Platform](http://news.mydrivers.com/1/237/237098_all.htm)
 
 #### x230 tips
 - [The build and analysis](http://www.tpuser.idv.tw/wp/)
@@ -36,6 +52,7 @@ Lithium Ion 6-cell/Up to 9.9 hours
 + [Windows 7 tweaks](http://article.pchome.net/content-1387324.html)  
 + [Win 7 optimizing](http://moonwulk.blogspot.hk/2010/07/windows-7-ssd.html)  
 + [SSD 2012 roundup](http://www.behardware.com/art/imprimer/860/)  
++ [**SSD 4 KiB Alignment Performance Test**](http://www.seekxiu.com/article.aspx?id=12568)
 
 #### Demystifying External Hard Disk  
 + [German Medion](http://item.taobao.com/item.htm?id=18461252774) USB 3.0 external hard disk case  
