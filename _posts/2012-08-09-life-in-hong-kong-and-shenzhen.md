@@ -15,20 +15,6 @@ description: Websites for every day life, which include weather, banks, cellphon
 |            | [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)                                 |   
 | Cellphone  | [Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)    |   
 
-## Online Video Site
-
-|                 |                                                                                                 |   
-| -------------   | :---------------------------------------------------------------------------------------------- |   
-|                 | [Youtube](http://www.youtube.com)                                                               |    
-|                 | [fengyunzhibo](http://www.fengyunzhibo.com/)                                                    |  
-| mainland        | [letv](http://www.letv.com/)                                                                    |    
-|                 | [youku](http://www.youku.com/)                                                                  |  
-|                 | [tudou](http://www.tudou.com/)                                                                  |    
-|                 | [topway](http://www.topway.cn/)                                                                 |  
-|                 | [iqiyi](http://www.iqiyi.com/)                                                                  | 
-|                 | [sugoideas](http://sugoideas.com/), Taiwanese Entertainment                                     |
-
-
 ## Cinemas
 
 | Cinemas         |                                                                                                 |   
