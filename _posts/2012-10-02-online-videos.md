@@ -31,15 +31,10 @@ description: News and entertainment websites
 |                 |                 | [Pirate Bay](thepiratebay.se/), bt seeds                       |    
 |                 | ed2k            | [SimpleCD](http://simplecd.me/), ed2k resources                |    
 |                 | tools           | [KEEPVID](http://keepvid.com/), download video from youtube    |    
-|                 |                 | [iqiyi](http://www.iqiyi.com/)                                 |    
 
 # Online Music
 
 |                 |                                                                |                 |    
 | --------------- | :------------------------------------------------------------- | --------------- |    
 | Listening       | [douban.fm](http://douban.fm/)                                 | Personalized    |    
-|                 | [“Ù‘√Ã®](http://www.yinyuetai.com/)                            | HD MTV          |    
-|                 | [isohunt](http://isohunt.com/)                                 | torrent         |    
-|                 | [Pirate Bay](thepiratebay.se/)                                 |                 |    
-|                 | [SimpleCD](http://simplecd.me/)                                | ed2k            |    
-
+|                 | [yinyuetai](http://www.yinyuetai.com/)                         | HD MTV          |    
