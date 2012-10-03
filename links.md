@@ -7,7 +7,7 @@ description: Shortcuts to daily life and work.
 + [Links of polyu]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})      
 + [News]({{ site.url }}{% post_url 2012-09-15-news %})      
 + [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
-+ [Videos]({{ site.url }}{% post_url 2012-10-02-online-videos %})    
++ [Videos]({{ site.url }}{% post_url 2012-10-03-online-videos %})    
      
 ## TA and course work      
 + TA: [ENG2003](https://github.com/quxiaofeng/eng2003)     
