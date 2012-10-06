@@ -11,6 +11,7 @@ description: Comp5222 and thoughts on software testing
 + Medium of Instruction	:	English
 + No. of Credits	:	3
 + Examinations  :   [Click here to download prior examination papers]({{ site.url }}\images\examinations.7z)  
++ Portal inside PolyU : [__Learn at PolyU__](https://learn.polyu.edu.hk) 
 
 #### [works in github](https://github.com/quxiaofeng/comp5222)  
 
