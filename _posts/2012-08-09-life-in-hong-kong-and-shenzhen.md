@@ -13,7 +13,9 @@ description: Websites for every day life, which include weather, banks, cellphon
 |            | [BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)                                    |   
 |            | [Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)                      |   
 |            | [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)                                 |   
+| Currencies | [XE](http://www.xe.com/zh/)                                                                     |   
 | Cellphone  | [Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)    |   
+
 
 ## Cinemas
 
