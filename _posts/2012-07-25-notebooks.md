@@ -11,6 +11,7 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 >   i7-3520M, 4MB Cache/2.9GHz/1600MHz FSB  
 >   **2 x 8GiB** DDR3 1600MHz (Max. 16GB)  
 >   **128 GB M5Pro SSD**  
+>   **128 GB M4 mSATA SSD**
 >   **16 GB SD card**, as auxilary storage. 30 MiB/s writing speed  
 >   12.5", 1366 x 768  
 >   720p HD Webcam  
@@ -18,7 +19,7 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 >   Lithium Ion 6-cell/Up to 9.9 hours  
 >   1.34kg  
 
-- Plextor M5 Pro 128GB SSD Speed Test with AS SSD Benchmark
+- Plextor M5 Pro 128GB SSD Speed Test with AS SSD Benchmark(right after the system installation)
 
 ![SSD speed test]({{ site.url }}/images/ssd_speedtest.png)
 
@@ -32,8 +33,42 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 
 
 - Trying to find a friend in HKUST/HKBU/CITYU. **Solved, THANKS to ZHM.**
-- *Delayed* Adding a WWAN module or a **32GB mSATA** as a backup system.
-- Maybe try a 90 MiB/s SD card
+
+#### System Test after Adding a mSATA SSD
+
+*Some test are too slow to carry out.*
+
+- Main SSD with almost full files
+
+The performance is still very good as just bought.
+
+![PLEXTOR_PX-128M5_2012_10_15]({{ site.url }}/images/PLEXTOR_PX-128M5_2012_10_15.jpg)
+
+- RamDisk is still the best, over 10 times of SSD
+
+![RamDisk_2012_10_15]({{ site.url }}/images/RamDisk_2012_10_15.jpg)
+
+- Crucial M4 128GB mSATA is slightly weaker than M5P. Not to mention it is empty.
+
+![M4-CT128M4SSD3_A_2012_10_15]({{ site.url }}/images/M4-CT128M4SSD3_A_2012_10_15.jpg)
+
+- Mobile HDD(the original hdd came with x230) with USB 3.0
+
+The difference with SSD is obvious especially the random test.
+
+![HITACHI_HTS72505_2012_10_15]({{ site.url }}/images/HITACHI_HTS72505_2012_10_15.jpg)
+
+- SanDisk Extreme 16GB Flash Disk
+
+Extrodinary read, poor write and worst random.
+
+![SanDisk_Extreme__2012_10_15]({{ site.url }}/images/SanDisk_Extreme__2012_10_15.jpg)
+
+- SD Card 16GB
+
+Worst at any field.
+
+![Ricoh_SD_Disk_De_2012_10_15]({{ site.url }}/images/Ricoh_SD_Disk_De_2012_10_15.jpg)
 
 #### [XP Installation Guide on IVB Platform](http://news.mydrivers.com/1/237/237098_all.htm)
 
