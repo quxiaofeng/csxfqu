@@ -11,7 +11,7 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 >   i7-3520M, 4MB Cache/2.9GHz/1600MHz FSB  
 >   **2 x 8GiB** DDR3 1600MHz (Max. 16GB)  
 >   **128 GB M5Pro SSD**  
->   **128 GB M4 mSATA SSD**
+>   **128 GB M4 mSATA SSD**    
 >   **16 GB SD card**, as auxilary storage. 30 MiB/s writing speed  
 >   12.5", 1366 x 768  
 >   720p HD Webcam  
