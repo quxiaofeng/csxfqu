@@ -15,7 +15,7 @@ description: Shortcuts to daily life and work.
 + guided study: software engineering     
 
 ## [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog    
-+ The source code of this blog is hosted in both [gitcafe](https://gitcafe.com/quxiaofeng/csxfqu) and [github](https://github.com/quxiaofeng/csxfqu).    
++ The source code of this blog is hosted in both [github](https://github.com/quxiaofeng/csxfqu).    
 + [The black tube theme](https://github.com/pizn/blogTheme) used for this blog, and the [developer's post](http://www.pizn.me/2012/05/04/the-jekyll-blog-theme-black-cube.html) about it.    
     
      

@@ -14,12 +14,12 @@ description: Websites and softwares for coding.
 ## IDEs  
 + [Visual Studio](http://e5.onthehub.com/WebStore/OfferingsOfMajorVersionList.aspx?ws=d0ea765b-816f-e011-971f-0030487d8897&vsro=8&pmv=540786e5-43e4-de11-a13b-0030487d8897&cmi_mnuMain=bdba23cf-e05e-e011-971f-0030487d8897), The Hong Kong Polytechnic University (PolyU) has become a member of the Microsoft Dynamics Academic Alliance since 2007.    
 + Matlab    
++ Qt Creator
   
 ## Libraries
-+ [Qt SDK](http://qt.nokia.com/downloads)  
-  - Qt Creator  
++ [Qt SDK](http://qt-project.org/downloads)    
   - Qt 4.8.1  
-+ [OpenCV](http://opencv.willowgarage.com/wiki/)  
++ [OpenCV](http://www.opencv.org)     
 + [Intel Threading Building Blocks](http://threadingbuildingblocks.org/)  
 + [TinyXML](http://www.grinninglizard.com/tinyxml/)    
   - [Analysis](http://panpan.blog.51cto.com/489034/104961/)  
