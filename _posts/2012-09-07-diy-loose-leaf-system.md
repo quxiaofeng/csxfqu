@@ -43,4 +43,4 @@ __This A6 system is more suitable for note taking, the calendar and schedule__
 
 + [looseleaf.cn / 活页DIY会所](http://www.looseleaf.cn/)
 + [We Like Looseleaf / 我们喜欢活页本](http://www.douban.com/group/loose-leaf/)
-+ [Noteookism / 梦手账](http://www.douban.com/group/notebookism/)
++ [Notebookism / 梦手账](http://www.douban.com/group/notebookism/)
