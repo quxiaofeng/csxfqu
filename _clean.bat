@@ -1,9 +1,6 @@
 rmdir _site /s /q
 
-FOR /R "." %%s IN (*~) DO call del "%%~fs" /f /q
+FOR /R "." %%s IN (*~) DO call del "%%~fs"
 
-REM cd _posts
-
-REM FOR /R "." %%s IN (*~) DO call del "%%~fs" /f /q
 
 PAUSE

@@ -1,25 +1,25 @@
 ---
-layout: post
-tags : [writing, GTD, calendar]
+layout:post
+tage: [writing, GTD, calendar]
 description: Personal loose leaf system for different purposes.
 ---
 
-# Calendar, To-do list and Schedule
+## Calendar, To-do list and Schedule
 
 Daily Planner in [Github](https://github.com/quxiaofeng/daily_planner)
 
-# LaTeX resources
+## LaTeX resources
 
-## filofax system
+### filofax system
 
 + autofilo.sty
 + [calendar bundle](http://www.ctan.org/tex-archive/macros/latex/contrib/calendar)
 
-## [Paper Size Standard](http://zh.wikipedia.org/wiki/ISO_216)
+### [Paper Size Standard](http://zh.wikipedia.org/wiki/ISO_216)
 
-# Stationery System
+## Stationery System
 
-## A5 System
+### A5 System
 
 + [MUJI A5 2-hole Binder](http://www.douban.com/photos/photo/1681928056/)
 + [MUJI A5 loose leaf pages](http://www.muji.us/store/stationery/notebooks/tree-planting-paper-loose-leaf-a5.html)
@@ -30,12 +30,15 @@ Daily Planner in [Github](https://github.com/quxiaofeng/daily_planner)
 
 __This A5 system should be reading or large scale writting__
 
-## A6 System
+### A6 System
 
 + A6 loose leaf organizer
 + [Adjustable six hole puncher](http://item.taobao.com/item.htm?id=12339657674)
 
 __This A6 system is more suitable for note taking, the calendar and schedule__
 
+## Online Resources
 
-
++ [looseleaf.cn / 活页DIY会所](http://www.looseleaf.cn/)
++ [We Like Looseleaf / 我们喜欢活页本](http://www.douban.com/group/loose-leaf/)
++ [Noteookism / 梦手账](http://www.douban.com/group/notebookism/)
