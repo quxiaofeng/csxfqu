@@ -36,6 +36,7 @@ description: News and entertainment websites
 |            |          | [Pirate Bay](http://thepiratebay.se), bt seeds            
 |            | ed2k     | [SimpleCD](http://simplecd.me/), ed2k resources           
 |            | tools    | [KEEPVID](http://keepvid.com/), download youtube videos   
+|            |          | [硕鼠](http://www.flvcd.com/), download youku videos   
 |            | OS       | [无约而来](http://zxkh19501.blog.163.com/)      
 
         
