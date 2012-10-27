@@ -25,3 +25,7 @@ tags : [project management, academic]
 + Critical Path
 + Goal
 + Risk
+
+# Open Source Project Management Server
+
++ [kunagi](http://kunagi.org/)

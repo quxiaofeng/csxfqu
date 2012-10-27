@@ -14,6 +14,8 @@ description: Resources on sparse and low rank algorithms
 
 + [Emmanuel Candes in Stanford](http://www-stat.stanford.edu/~candes/)
 
++ [Bellard](http://bellard.org/), and [his page on Wiki](http://zh.wikipedia.org/wiki/Fabrice_Bellard)
+
 ## Other Algorithms Sites
 
 + [CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm) and the [WIKI](https://sites.google.com/site/cvonlinewiki/home)
