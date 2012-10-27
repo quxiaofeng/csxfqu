@@ -1,12 +1,14 @@
 ---
-layout:post
-tage: [writing, GTD, calendar]
+layout : post
+tags : [writing, GTD, calendar]
 description: Personal loose leaf system for different purposes.
 ---
 
+用个人订制的活页来进行日程管理、流程规划与改进。
+
 ## Calendar, To-do list and Schedule
 
-Daily Planner in [Github](https://github.com/quxiaofeng/daily_planner)
+Current Daily Planner Project in [Github](https://github.com/quxiaofeng/daily_planner)
 
 ## LaTeX resources
 
