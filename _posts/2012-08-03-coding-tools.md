@@ -129,7 +129,7 @@ description: Websites and softwares for coding.
 
 + [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 
-## [Writing Tools]({{ site.url}}{% post_url 2012-08-04-writing-tools %})
+## [Writing Tools]({{ site.url }}{% post_url 2012-08-04-writing-tools %})
 
 ## Downloading
 
