@@ -12,6 +12,16 @@ Current Daily Planner Project in [Github](https://github.com/quxiaofeng/daily_pl
 
 ## LaTeX resources
 
+### Good Questions on [tex.stackexchange.com](http://tex.stackexchange.com)
+
++ [Printing a double-sided A5 document on A4 paper](http://tex.stackexchange.com/questions/36558/printing-a-double-sided-a5-document-on-a4-paper)
+
++ [How to make custom page frame using LaTeX?](http://tex.stackexchange.com/questions/26957/how-to-make-custom-page-frame-using-latex)
+
+similar post [Making page margins visible](http://texblog.org/2011/04/04/make-page-margins-visible/)
+
++ [Are there any good Chinese beamer templates available for Linux TeX Live users?](http://tex.stackexchange.com/questions/45728/are-there-any-good-chinese-beamer-templates-available-for-linux-tex-live-users)
+
 ### filofax system
 
 + autofilo.sty
@@ -42,5 +52,11 @@ __This A6 system is more suitable for note taking, the calendar and schedule__
 ## Online Resources
 
 + [looseleaf.cn / 活页DIY会所](http://www.looseleaf.cn/)
+
 + [We Like Looseleaf / 我们喜欢活页本](http://www.douban.com/group/loose-leaf/)
+
 + [Notebookism / 梦手账](http://www.douban.com/group/notebookism/)
+
++ [雨滴 美化社区](http://bbs.rainmeter.cn/)
+
++ [pdf de calendar](http://pdfdecalender.seesaa.net/)

@@ -52,6 +52,8 @@ The performance is still very good as just bought.
 
 ![M4-CT128M4SSD3_A_2012_10_15]({{ site.url }}/images/M4-CT128M4SSD3_A_2012_10_15.jpg)
 
+And also here is [a review of this mSATA SSD](http://www.storagereview.com/micron_realssd_c400_msata_ssd_review).
+
 - Mobile HDD(the original hdd came with x230) with USB 3.0
 
 The difference with SSD is obvious especially the random test.
@@ -125,3 +127,6 @@ Worst at any field.
 
 ### An apple Virtual Machine for IOS development?  
 
++ [Easily Run Mac OS X 10.8 Mountain Lion Retail on PC with VMware Image – Simple Steps](http://www.sysprobs.com/easily-run-mac-os-x-10-8-mountain-lion-retail-on-pc-with-vmware-image)
+
++ [SecurAble](http://www.grc.com/securable.htm), test processor securaty features.

@@ -4,6 +4,10 @@ tags : [coding, software]
 description: Websites and softwares for coding.
 ---
 
+## Reference
+
++ [C/C++ reference](http://en.cppreference.com/w/)
+
 ## Source Code Management
 + [__github__](https://github.com/quxiaofeng) for public repos    
 + [__bitbucket__](https://bitbucket.org/quxiaofeng) for private repos     
@@ -59,5 +63,17 @@ description: Websites and softwares for coding.
 + [QtiPlot](http://soft.proindependent.com/qtiplot.html)  
 + [SciDAVis](http://scidavis.sourceforge.net/about/index.html)
 
+## Test Virtual Machines
+
++ [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+
 ## [Writing Tools]({{ site.url}}{% post_url 2012-08-04-writing-tools %})
+
+## Downloading
+
++ [All opensource softwares](http://ftp.heanet.ie/mirrors/)
+
+## Microsoft DreamSpark
+
++ [DreamSpark](http://e5.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?ws=d0ea765b-816f-e011-971f-0030487d8897&vsro=8&JSEnabled=1)
 

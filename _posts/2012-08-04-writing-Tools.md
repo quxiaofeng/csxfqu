@@ -39,6 +39,7 @@ description: Tools and websites helping writing.
 
 ## LaTeX
 
++ [Texmaker](http://www.xm1math.net/texmaker/download.html#windows), another tex editor. Better than texworks with features of cmd reminder.
 + [TeXLive 2012](http://www.tug.org/texlive/)
 + Texworks
 + [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)
@@ -48,7 +49,8 @@ description: Tools and websites helping writing.
 
 ## CMS
 
-+ [Mendeley](http://www.mendeley.com/)    
++ [Mendeley](http://www.mendeley.com/) 
++ [Note Express](http://www.scinote.com/download_chs.htm)
 
 #### Zotero Tool Set
 
@@ -74,4 +76,6 @@ description: Tools and websites helping writing.
 + [David](http://scholar.google.com.hk/citations?user=IOagLnEAAAAJ&hl=en)
 + [Lei Zhang](http://scholar.google.com.hk/citations?user=tAK5l1IAAAAJ&hl=en)  
 
+## PDF Editor
 
++ [PDF Patcher](http://pdfpatcher.cnblogs.com/)

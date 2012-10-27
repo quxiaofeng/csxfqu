@@ -61,3 +61,6 @@ description: Comp5222 and thoughts on software testing
 5. [IEEE Std. 1028]({{ site.url }}\images\ieee1028.pdf), IEEE Standard for Software Reviews and Audits
 6. [IEEE Std. 1044]({{ site.url }}\images\ieee1044.pdf), IEEE Standard Classification for Software Anomalies
 
+## Some useful webpages
+
++ [What is Software Testing](http://bazman.tripod.com/what_testing.html)
