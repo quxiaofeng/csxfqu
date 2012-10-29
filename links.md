@@ -33,7 +33,4 @@ description: Shortcuts to daily life and work.
     
 <script type="text/javascript" src="http://www.douban.com/service/badge/gBlueBird/?show=collection&amp;select=random&amp;n=18&amp;columns=6&amp;hidelogo=yes&amp;cat=book" ></script>    
     
-+ ["      "](http://www.tokyo-247.net/)
-
-+ ["      "](http://scandal-base.blogspot.hk/)
 
