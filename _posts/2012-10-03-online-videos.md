@@ -23,6 +23,7 @@ description: News and entertainment websites
 |            |          | [爱奇艺](http://www.iqiyi.com)                       
 |            | Taiwan P | [sugoideas](http://sugoideas.com)                    
 |            | Russian  | [Russian TImes](http://rt.com/on-air)                
+|            | American | [Beeline TV](http://beelinetv.com/)
 | Cartoon    |          | [乐视网](http://www.letv.com)                        
 |            |          | [哔哩哔哩](http://bilibili.kankannews.com)           
 
