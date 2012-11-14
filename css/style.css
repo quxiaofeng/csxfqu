@@ -40,7 +40,12 @@ hr { border: 3px solid #f4f3f3; clear: both; max-width: 300px; border-radius: 5p
 ::-moz-selection    {background: rgba(0, 0, 0, .1);}
 img::selection      {background: none; width: 100%; }
 img::-moz-selection {background: none; width: 100%; }
-
+.fn-clear:after             { visibility:hidden; display:block; font-size:0; content:" "; clear:both; height:0; }
+.fn-clear                   { zoom:1; /* for IE6 IE7 */ }
+body .fn-hide               { display:none; }
+.fn-left,.fn-right          { display:inline; }
+.fn-left                    { float:left; }
+.fn-right                   { float:right; }
 article a:link, article a:visited, article a:hover, article a:active, #foot p a, #foot p a:hover, #pagination a:hover { text-decoration: none; border-bottom: 1px solid #ccc; color: black; }
 
 /*  Font Awesome
@@ -385,6 +390,7 @@ li[class^="icon-"].icon-large:before, li[class*=" icon-"].icon-large:before {
 .post blockquote { padding: 0.5em 1em 0.4em 1em; margin-bottom: 1em;  border-left: .9em solid #232323; }
 .post pre { width: 100%; margin-left: -40px; background: #f8f8f8; border-top:  1px solid #d8d8d8; border-bottom: 1px solid #d8d8d8; padding: 1em 0 1em 40px; }
 .post code { color: #4d4d4d; background: #f8f8f8; padding: 0 0.2em; border: 1px solid #d8d8d8; border-radius: 3px 3px; position: relative; top: -2px; margin: 0 3px; box-shadow: 1px 1px 0 #999; }
+.post pre code { border: none; box-shadow: none; padding: 0 0; }
 .post p, .post h3, .post h4, .post blockquote, .post li { max-width: 580px; }
 .post blockquote p { margin-bottom: 0; }
 .post table { width: 680px; }
