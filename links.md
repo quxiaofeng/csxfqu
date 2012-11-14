@@ -6,18 +6,18 @@ date: Shortcuts to daily life and work.
 <article class="post">
 <h3>Contact Me</h3>
 <ul>
-    <li><a href="{{ site.follow.twitter }}"><i class="icon-twitter"></i> Twitter</a></li>
-    <li><a href="{{ site.follow.github }}"><i class="icon-github"></i> GitHub</a></li>
-    <li><a href="{{ site.follow.google }}"><i class="icon-google-plus-sign"></i> Google</a></li>
-    <li><a href="{{ site.follow.facebook }}"><i class="icon-facebook-sign"></i> Facebook</a></li>
-    <li><a href="{{ site.follow.gscholar }}"><i class="icon-gscholar-sign"></i>google scholar</a></li>
-    <li><a href="{{ site.follow.weibo }}"><i class="icon-rss"></i>weibo</a></li>
-    <li><a href="{{ site.follow.tencent }}"><i class="icon-pinterest-sign"></i>tencent</a></li>
-    <li><a href="{{ site.follow.linkedin }}"><i class="icon-linkedin-sign"></i>linkedin</a></li>
-    <li><a href="{{ site.follow.mendeley }}"><i class="icon-beaker"></i>Mendeley</a></li>
+    <li><a href="{{ site.follow.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>
+    <li><a href="{{ site.follow.github }}" target="_blank"><i class="icon-github"></i> GitHub</a></li>
+    <li><a href="{{ site.follow.google }}" target="_blank"><i class="icon-google-plus-sign"></i> Google</a></li>
+    <li><a href="{{ site.follow.facebook }}" target="_blank"><i class="icon-facebook-sign"></i> Facebook</a></li>
+    <li><a href="{{ site.follow.gscholar }}" target="_blank"><i class="icon-gscholar-sign"></i>google scholar</a></li>
+    <li><a href="{{ site.follow.weibo }}" target="_blank"><i class="icon-rss"></i>weibo</a></li>
+    <li><a href="{{ site.follow.tencent }}" target="_blank"><i class="icon-pinterest-sign"></i>tencent</a></li>
+    <li><a href="{{ site.follow.linkedin }}" target="_blank"><i class="icon-linkedin-sign"></i>linkedin</a></li>
+    <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
 <h3>Links</h3>
-
++ [BRC FTP](ftp://brcftp.quxiaofeng.me)
 + [Links of polyu]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
 + [News]({{ site.url }}{% post_url 2012-09-15-news %})      
 + [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
