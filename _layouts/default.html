@@ -7,15 +7,16 @@
     * Author:         Qu Xiaofeng
     * Contact:        quxiaofeng.at.polyu@gmail.com
     * Website:        www.quxiaofeng.me
+    * Github:         https://github.com/quxiaofeng/csxfqu
     *
     **
     -->
     <meta charset="utf-8" />
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="generator" content="Jekyll" />
     <meta name="author" content="{{ site.author.name }}" />
-    <meta name="description" content="{{ site.descripton }}" />
+    <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
     <link rel="stylesheet" href="{{ site.url }}{{ site.style }}" type="text/css" />
     <link rel="alternate" type="application/atom+xml" title="Recent Entries" href="{{ site.feed }}" />
     <link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon" />
@@ -64,7 +65,7 @@ $(document).ready(function() {
     var disqusId = $("#disqus_thread");
     if(disqusId && typeof disqusId != "undefined" && disqusId.length != 0) {
         var disqusName = "{{ site.disqus }}";
-        var disqus_shortname = disqusName != "" ? disqusName : "piznblog";
+        var disqus_shortname = disqusName != "" ? disqusName : "csxfqu";
         (function() {
             var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
             dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';

@@ -4,6 +4,7 @@ title: Links
 date: Shortcuts to daily life and work.
 ---
 <article class="post">
+![My Lovely Son]({{ site.url }}/images/son.jpg)
 <h3>Contact Me</h3>
 <ul>
     <li><a href="{{ site.follow.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>
@@ -17,6 +18,7 @@ date: Shortcuts to daily life and work.
     <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
 <h3>Links</h3>
+
 + [BRC FTP](ftp://brcftp.quxiaofeng.me)
 + [Links of polyu]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
 + [News]({{ site.url }}{% post_url 2012-09-15-news %})      
