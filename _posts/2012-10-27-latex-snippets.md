@@ -20,6 +20,6 @@ description: Useful latex, especially beamer snippets.
 
 # Other Resources A Powerful FAQ blog
 
-+ [LaTeX-3.14159265](http://blog.sina.com.cn/wangzhaoli11)
++ [LaTeX-3.14159265](http://blog.sina.com.cn/wangzhaoli11)    
++ [GNU TeXmacs](http://www.texmacs.org/), another latex suite.    
 
-+ [GNU TeXmacs](http://www.texmacs.org/), another latex suite.
