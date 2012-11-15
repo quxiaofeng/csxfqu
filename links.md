@@ -4,7 +4,7 @@ title: Links
 date: Shortcuts to daily life and work.
 ---
 <article class="post">
-![My Lovely Son]({{ site.url }}/images/son.jpg)
+![My Lovely Son]({{ site.imageLink }})
 <h3>Contact Me</h3>
 <ul>
     <li><a href="{{ site.follow.twitter }}" target="_blank"><i class="icon-twitter"></i> Twitter</a></li>

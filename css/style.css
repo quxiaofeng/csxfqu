@@ -507,3 +507,33 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
 
     }
 }
+/*************************
+ * Nokia
+*************************/
+@media only screen and (min-width: 160px) and (max-width: 319px) {
+    body {overflow-x:  hidden;}
+    #head { width: 100%; height: auto;  position: relative; border-bottom: 1px solid #dedede; top: 0; min-height:  80px; }
+    #nav { margin-top: 20px;}
+    #begin { width: 90%; padding: 8px 5%; }
+    #contain { margin-left: 0; padding: 0;min-width: 100%;  width: 100%; }
+    .post { width: 90%; padding: 0 5%; margin: 8px 0; overflow: hidden; scroll-x: hidden;}
+    .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post img, .post audio, .post iframe, .post audio, .post canvas, .post video {
+       max-width: 100%;
+    }
+    .post pre {
+        width: 96%;
+        margin-left: 0;
+        padding-left: 4%;
+    }
+    .post hr {
+        margin: 8px auto;
+    }
+    .post .clearLeft {
+        margin-left: 0;
+    }
+    #foot {
+        padding-left: 0;
+
+    }
+}
+
