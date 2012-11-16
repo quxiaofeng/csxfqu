@@ -1,6 +1,6 @@
 markdown:         rdiscount
 pygments:         true
-paginate:         5
+paginate:         3
 
 title:            QuXiaofeng.me
 url:              http://www4.comp.polyu.edu.hk/~csxfqu
@@ -28,13 +28,13 @@ imageLink:        http://www4.comp.polyu.edu.hk/~csxfqu/images/son.jpg
 
 
 style: 			  /css/style.css
-blogName:         Qu's
-blogDesc:         Qu Xiaofeng's official site
-blogInfo:                 This site records my life and work in PolyU. It helps me make my life easier, and my thoughts organized. Hope it can help somebody else.
+blogName:         ELI
+blogDesc:         Qu Xiaofeng's Blog
+blogInfo:         This site records my life and work in PolyU. It helps me make my life easier, and my thoughts organized. Hope it can help somebody else.
 
 favicon:          /favicon.ico
 theme:            blue
 
 disqus:           csxfqu
 
-copyright:        Copyright © 2012-2013 Qu Xiaofeng All rights reserved.
+copyright:        Copyright © 2008-2013 <a href="http://www.quxiaofeng.me">Qu Xiaofeng</a> All rights reserved.
