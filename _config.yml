@@ -8,7 +8,7 @@ feed:             /atom.xml
 author:
     name:         Qu Xiaofeng
     email:        csxfqu@comp.polyu.edu.hk
-description:      "Qu Xiaofeng's personal site and blog."
+    description:  "Qu Xiaofeng's personal site and blog."
 
 about: 			  "I am Qu Xiaofeng. A Ph.D. candidate in Hong Kong Polytechnic University. I'm interested in Biometrics, Pattern Recognition, Machine Vision, Computer Vision, Image Processing, and Embedded System. I want to make beautiful practical convenient high-performance real-world applications."
 follow:
@@ -22,6 +22,7 @@ follow:
     tencent:      http://t.qq.com/quxiaofeng
     gscholar:     http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en
     github:       https://github.com/quxiaofeng
+description:      "Qu Xiaofeng's personal site and blog."
 
 indexContent:     true
 imageLink:        http://www4.comp.polyu.edu.hk/~csxfqu/images/son.jpg
