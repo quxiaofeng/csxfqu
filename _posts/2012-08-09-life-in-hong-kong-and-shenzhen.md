@@ -1,0 +1,70 @@
+---
+layout: post
+tags : [life, hongkong, shenzhen]
+description: Websites for every day life, which include weather, banks, cellphone, online videos, cinemas, and shoppings.
+---
+
+## Everyday life
+
+| Daily info |                                                                                                 |   
+| --------   | :---------------------------------------------------------------------------------------------- |   
+| Weather    | [Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)                                     |    
+| Banks      | [HangSeng](https://e-banking1.hangseng.com)                                                     |   
+|            | [BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)                                    |   
+|            | [Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)                      |   
+|            | [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)                                 |   
+| Currencies | [XE](http://www.xe.com/zh/)                                                                     |   
+| Cellphone  | [Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)    |   
+
+
+## Cinemas
+
+| Cinemas         |                                                                                                 |   
+| -------------   | :---------------------------------------------------------------------------------------------- |   
+| Hong Kong       | A Movie [__Navigator__](http://media.netvigator.com/media/bse/media/home/MVE/MVE_MOV.jsp)       |    
+|                 | [Golden Harvest](http://www.goldenharvest.com/)                                                 |  
+|                 | [CEL](http://www.cel-cinemas.com/cinema.jsp), friendly to students                              |    
+|                 | [UA](http://www.uacinemas.com.hk/eng/main/HomePage)                                             |  
+| Shenzhen        | [Century Starlight](http://www.szxhfilm.com/)                                                   |    
+|                 | [Mtime.com](http://theater.mtime.com/China_Guangdong_Province_Shenzen/)                         |  
+|                 | [Douban Movies](http://movie.douban.com/nowplaying/shenzhen/)                                   |    
+
+## Shopping
+
+### IT Products
+
+| 3C in Hong Kong |                                                                                                 |   
+| -------------   | :---------------------------------------------------------------------------------------------- |   
+| Official        | [Fortress](http://www.fortress.com.hk/)                                                         |    
+|                 | [**Price.com.hk**](http://www.price.com.hk/)                                                        |   
+|                 | [**Apple Store**](http://store.apple.com/hk-zh/)                                                    |   
+| Used            | [**DCFever**](http://dcfever.com/trading/listing.php?category=3)                                    |   
+|                 | [Yahoo.hk](http://hk.auctions.yahoo.com/hk/23336-category.html?.r=1344488639)                   |   
+| Comparisons     | [Amazon](http://www.amazon.com/)                                                                |   
+|                 | [Taobao](http://www.taobao.com/)                                                                |   
+|                 | [Jingdong](http://www.360buy.com/)                                                              |   
+|                 | [**SMZDM**](http://www.smzdm.com/), a Buyers' Guide.                                                |   
+|                 | [Chip Hell](http://www.chiphell.com/), a cutting-edge review site                               |   
+| IP 5 Preorder   | [iPhone 5 preorder](https://reserve.apple.com/HK/zh_HK/reserve/iPhone)                          |    
+
+### Consmetic
+
+| Cosmetic Stores                                                                                 |   
+| ----------------------------------------------------------------------------------------------- |   
+| [Bonjour](http://www.bonjourhk.com/tc/main.aspx)                                                |    
+| [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)                                          |  
+
+### Promotions
+
++ [GetJetso.com](http://www.getjetso.com/)
+
+### Track Your Express
+
++ [Track with Number](http://www.yto5.cn/)
+
+## SiteIsDownOrBlocked
+
++ Use [this site](http://isdownorblocked.com/) to chek other sites.
+
++ [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)
+

@@ -1,0 +1,41 @@
+markdown:         rdiscount
+pygments:         true
+paginate:         3
+
+title:            QuXiaofeng.me
+url:              http://www4.comp.polyu.edu.hk/~csxfqu
+feed:             /atom.xml
+author:
+    name:         Qu Xiaofeng
+    email:        csxfqu@comp.polyu.edu.hk
+    description:  "Qu Xiaofeng's personal site and blog."
+
+about: 			  "I am Qu Xiaofeng. A Ph.D. candidate in Hong Kong Polytechnic University. I'm interested in Biometrics, Pattern Recognition, Machine Vision, Computer Vision, Image Processing, and Embedded System. I want to make beautiful practical convenient high-performance real-world applications."
+follow:
+    email:        quxiaofeng.at.polyu@gmail.com
+    twitter:      http://www.twitter.com/quxiaofeng
+    facebook:     http://www.facebook.com/quxiaofeng
+    linkedin:     http://hk.linkedin.com/pub/xiaofeng-qu/20/57b/b17
+    google:       https://plus.google.com/u/0/118103723037880699787/posts
+    mendeley:     http://www.mendeley.com/profiles/xiaofeng-qu/
+    weibo:        http://weibo.com/quxiaofeng
+    tencent:      http://t.qq.com/quxiaofeng
+    gscholar:     http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en
+    github:       https://github.com/quxiaofeng
+description:      "Qu Xiaofeng's personal site and blog."
+
+indexContent:     true
+imageLink:        http://www4.comp.polyu.edu.hk/~csxfqu/images/son.jpg
+
+
+style: 			  /css/style.css
+blogName:         ELI
+blogDesc:         Qu Xiaofeng's Blog
+blogInfo:         This site records my life and work in PolyU. It helps me make my life easier, and my thoughts organized. Hope it can help somebody else.
+
+favicon:          /favicon.ico
+theme:            blue
+
+disqus:           csxfqu
+
+copyright:        Copyright © 2008-2013 <a href="http://www.quxiaofeng.me">Qu Xiaofeng</a> All rights reserved.
