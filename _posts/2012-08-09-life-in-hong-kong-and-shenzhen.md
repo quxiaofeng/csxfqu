@@ -6,16 +6,27 @@ description: Websites for every day life, which include weather, banks, cellphon
 
 ## Everyday life
 
-| Daily info |                                                                                                 |   
-| --------   | :---------------------------------------------------------------------------------------------- |   
-| Weather    | [Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)                                     |    
-| Banks      | [HangSeng](https://e-banking1.hangseng.com)                                                     |   
-|            | [BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)                                    |   
-|            | [Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)                      |   
-|            | [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)                                 |   
-| Currencies | [XE](http://www.xe.com/zh/)                                                                     |   
-| Cellphone  | [Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)    |   
-
+<table>
+<thead>
+    <tr><th>Daily Info</th><th></th></tr>
+</thead>
+<tbody>
+    <tr><th>Weather   </th>
+        <td><a href="http://www.hko.gov.hk/wxinfo/currwx/fndc.htm">Observatory</a></td></tr>
+    <tr><th>Banks     </th>
+        <td><a href="https://e-banking1.hangseng.com">HangSeng</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="https://mobile.hkbea-cyberbanking.com/servlet/FRLogon">BEA</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="https://ibank.standardchartered.com.hk/nfs/login.htm">Standard Chartered</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html">PPS</a></td></tr>
+    <tr><th>Currencies</th>
+        <td><a href="http://www.xe.com/zh/">XE</a></td></tr>
+    <tr><th>Cellphone </th>
+        <td><a href="https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill">Three Company</a></td></tr>
+</tbody>
+</table>
 
 ## Cinemas
 

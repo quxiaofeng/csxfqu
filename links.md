@@ -24,6 +24,7 @@ date: Shortcuts to daily life and work.
 + [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
 + [Jokes]({{ site.url }}{% post_url 2012-10-27-jokes %})
 + [Videos]({{ site.url }}{% post_url 2012-10-03-online-videos %})
++ [News]({{ site.url }}{% post_url 2012-09-15-news %})
      
 ## TA and course work      
 
