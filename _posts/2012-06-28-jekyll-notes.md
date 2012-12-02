@@ -48,6 +48,7 @@ PAUSE
 {% endhighlight %}
     
 ### add _post_url_, the relative internal links to post   
+
 + follow this [guide](https://github.com/mojombo/jekyll/issues/66)    
 + download post_url.rb file [here](https://github.com/thatguystone/jekyll/blob/5cffe5ecb5194ef0e26e66ced1e2ef5285a934e7/lib/jekyll/tags/post_url.rb)    
 + the post_url.rb file should be put into this folder
@@ -76,6 +77,7 @@ PAUSE
 ---
 
 ### [Liquid guide](https://github.com/Shopify/liquid/wiki/Liquid-for-Designers)
+
 + And the [patch](http://bradleygrainger.com/2011/09/07/how-to-use-github-pages-on-windows.html) under windows
 
 ### Bibtex Citation

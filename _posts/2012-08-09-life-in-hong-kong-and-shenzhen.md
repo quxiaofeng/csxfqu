@@ -5,7 +5,6 @@ description: Websites for every day life, which include weather, banks, cellphon
 ---
 
 ## Everyday life
-
 <table>
 <thead>
     <tr><th>Daily Info</th><th></th></tr>
@@ -58,24 +57,17 @@ description: Websites for every day life, which include weather, banks, cellphon
 |                 | [Chip Hell](http://www.chiphell.com/), a cutting-edge review site                               |   
 | IP 5 Preorder   | [iPhone 5 preorder](https://reserve.apple.com/HK/zh_HK/reserve/iPhone)                          |    
 
-### Consmetic
+### Consmetic    
++ [Bonjour](http://www.bonjourhk.com/tc/main.aspx)
++ [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)
 
-| Cosmetic Stores                                                                                 |   
-| ----------------------------------------------------------------------------------------------- |   
-| [Bonjour](http://www.bonjourhk.com/tc/main.aspx)                                                |    
-| [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)                                          |  
-
-### Promotions
-
+### Promotions    
 + [GetJetso.com](http://www.getjetso.com/)
 
-### Track Your Express
-
+### Track Your Express    
 + [Track with Number](http://www.yto5.cn/)
 
-## SiteIsDownOrBlocked
-
-+ Use [this site](http://isdownorblocked.com/) to chek other sites.
-
-+ [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)
+## SiteIsDownOrBlocked    
++ Use [this site](http://isdownorblocked.com/) to chek other sites.    
++ [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)    
 

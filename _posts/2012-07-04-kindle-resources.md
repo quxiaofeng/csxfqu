@@ -9,10 +9,8 @@ tags : [reading, kindle]
 
 # Book Resources (WIFI)
 
-+ [ikandou books](http://ikandou.com/book/)
-
-+ [book.zi5](http://book.zi5.me/)
-
++ [ikandou books](http://ikandou.com/book/)    
++ [book.zi5](http://book.zi5.me/)    
 + [ShuCang](http://shucang.org/web/)
 
 # Magazine Subscription Resources (WIFI)
@@ -21,28 +19,19 @@ tags : [reading, kindle]
 
 # Book Resources (Download)
 
-+ [Project Gutenberg](http://www.gutenberg.org/)
-
-+ [library.nu](http://library.nu/)
-
-+ [IASK](http://ishare.iask.sina.com.cn/)
-
-+ [CSDN](http://download.csdn.net/)
-
-+ [The Pragmatic Bookshelf](http://pragprog.com/titles)
++ [Project Gutenberg](http://www.gutenberg.org/)    
++ [library.nu](http://library.nu/)    
++ [IASK](http://ishare.iask.sina.com.cn/)    
++ [CSDN](http://download.csdn.net/)   
++ [The Pragmatic Bookshelf](http://pragprog.com/titles)    
 
 ## Formatting
 
-+ [K2PDF](http://www.willus.com/k2pdfopt/), turns a two-column-pdf into a kindle friendly format.
-
-+ [paper4kindle](http://gatherlight.info/blog/?p=1638#comment-183)
-
-+ [A Guide of paper cut for kindle](http://note1day.com/2012/01/briss-pdfscissors-pdfill-pdfcrop/)
-
-+ Word: 8 x 12cm, 0.1cm margin, save as pdf
-
-+ LaTeX: pdfmerge
-
++ [K2PDF](http://www.willus.com/k2pdfopt/), turns a two-column-pdf into a kindle friendly format.    
++ [paper4kindle](http://gatherlight.info/blog/?p=1638#comment-183)    
++ [A Guide of paper cut for kindle](http://note1day.com/2012/01/briss-pdfscissors-pdfill-pdfcrop/)    
++ Word: 8 x 12cm, 0.1cm margin, save as pdf    
++ LaTeX: pdfmerge    
 {% highlight latex %}
 \documentclass[a4paper]{article}
 \usepackage{pdfpages}
@@ -59,8 +48,7 @@ tags : [reading, kindle]
 ## Accessaries
 
 + [octovo](http://www.octovo.com/)
-
-+ []()
++ [Kindle Lighted Leather Cover, Black](http://www.amazon.com/gp/product/B003DZ165W), finally got one
 
 ### USB Charger Current Boost
 
@@ -68,9 +56,8 @@ tags : [reading, kindle]
 
 ## Self Publishing
 
-+ [A User Guide](http://www.bit-101.com/blog/?p=3475)
-
-+ [User Guide Part 2 with Markdown](http://www.bit-101.com/blog/?p=3502)
++ [A User Guide](http://www.bit-101.com/blog/?p=3475)    
++ [User Guide Part 2 with Markdown](http://www.bit-101.com/blog/?p=3502)    
 
 # [Kindle Paperwhite](http://www.amazon.com/gp/product/B008GEKXUO)
 
