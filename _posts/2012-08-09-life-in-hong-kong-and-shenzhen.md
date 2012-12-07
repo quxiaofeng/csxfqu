@@ -29,15 +29,27 @@ description: Websites for every day life, which include weather, banks, cellphon
 
 ## Cinemas
 
-| Cinemas         |                                                                                                 |   
-| -------------   | :---------------------------------------------------------------------------------------------- |   
-| Hong Kong       | A Movie [__Navigator__](http://media.netvigator.com/media/bse/media/home/MVE/MVE_MOV.jsp)       |    
-|                 | [Golden Harvest](http://www.goldenharvest.com/)                                                 |  
-|                 | [CEL](http://www.cel-cinemas.com/cinema.jsp), friendly to students                              |    
-|                 | [UA](http://www.uacinemas.com.hk/eng/main/HomePage)                                             |  
-| Shenzhen        | [Century Starlight](http://www.szxhfilm.com/)                                                   |    
-|                 | [Mtime.com](http://theater.mtime.com/China_Guangdong_Province_Shenzen/)                         |  
-|                 | [Douban Movies](http://movie.douban.com/nowplaying/shenzhen/)                                   |    
+<table>
+<thead>
+    <tr><th>Cinemas</th><th></th></tr>
+</thead>
+<tbody>
+    <tr><th>Hong Kong </th>
+        <td>A Movie <a href="http://media.netvigator.com/media/bse/media/home/MVE/MVE_MOV.jsp">Navigator</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.goldenharvest.com">Golden Harvest</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.cel-cinemas.com/cinema.jsp">CEL</a>, best choice for students</td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.uacinemas.com.hk/eng/main/HomePage">UA</a></td></tr>
+    <tr><th>Shenzhen  </th>
+        <td><a href="http://www.szxhfilm.com">Century Starlight / 中影世纪星辉</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://theater.mtime.com/China_Guangdong_Province_Shenzen">Mtime.com</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://movie.douban.com/nowplaying/shenzhen">Douban Movies</a></td></tr>
+</tbody>
+</table>
 
 ## Shopping
 
@@ -55,7 +67,6 @@ description: Websites for every day life, which include weather, banks, cellphon
 |                 | [Jingdong](http://www.360buy.com/)                                                              |   
 |                 | [**SMZDM**](http://www.smzdm.com/), a Buyers' Guide.                                                |   
 |                 | [Chip Hell](http://www.chiphell.com/), a cutting-edge review site                               |   
-| IP 5 Preorder   | [iPhone 5 preorder](https://reserve.apple.com/HK/zh_HK/reserve/iPhone)                          |    
 
 ### Consmetic    
 + [Bonjour](http://www.bonjourhk.com/tc/main.aspx)
