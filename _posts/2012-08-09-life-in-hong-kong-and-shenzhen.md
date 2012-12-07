@@ -4,7 +4,7 @@ tags : [life, hongkong, shenzhen]
 description: Websites for every day life, which include weather, banks, cellphone, online videos, cinemas, and shoppings.
 ---
 
-## Everyday life
+# Everyday life
 <table>
 <thead>
     <tr><th>Daily Info</th><th></th></tr>
@@ -27,8 +27,7 @@ description: Websites for every day life, which include weather, banks, cellphon
 </tbody>
 </table>
 
-## Cinemas
-
+# Cinemas
 <table>
 <thead>
     <tr><th>Cinemas</th><th></th></tr>
@@ -51,34 +50,48 @@ description: Websites for every day life, which include weather, banks, cellphon
 </tbody>
 </table>
 
-## Shopping
+# Shopping
 
-### IT Products
+## IT Products
+<table>
+<thead>
+    <tr><th>3C in Hong Kong</th><th></th></tr>
+</thead>
+<tbody>
+    <tr><th>Official  </th>
+        <td><a href="http://www.fortress.com.hk">Fortress</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.price.com.hk">Price.com.hk</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://store.apple.com/hk-zh">Apple Store</a></td></tr>
+    <tr><th>Used      </th>
+        <td><a href="http://dcfever.com/trading/listing.php?category=3">DCFever</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://hk.auctions.yahoo.com/hk/23336-category.html?.r=1344488639">Yahoo.hk</a></td></tr>
+    <tr><th>Comparisons</th>
+        <td><a href="http://www.amazon.com">Amazon</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.taobao.com">Taobao</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.360buy.com/">Jingdong</a></td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.smzdm.com/">SMZDM</a>, a Buyers' Guide</td></tr>
+    <tr><th>          </th>
+        <td><a href="http://www.chiphell.com">Chip Hell</a>, a cutting-edge review site</td></tr>
+</tbody>
+</table>
 
-| 3C in Hong Kong |                                                                                                 |   
-| -------------   | :---------------------------------------------------------------------------------------------- |   
-| Official        | [Fortress](http://www.fortress.com.hk/)                                                         |    
-|                 | [**Price.com.hk**](http://www.price.com.hk/)                                                        |   
-|                 | [**Apple Store**](http://store.apple.com/hk-zh/)                                                    |   
-| Used            | [**DCFever**](http://dcfever.com/trading/listing.php?category=3)                                    |   
-|                 | [Yahoo.hk](http://hk.auctions.yahoo.com/hk/23336-category.html?.r=1344488639)                   |   
-| Comparisons     | [Amazon](http://www.amazon.com/)                                                                |   
-|                 | [Taobao](http://www.taobao.com/)                                                                |   
-|                 | [Jingdong](http://www.360buy.com/)                                                              |   
-|                 | [**SMZDM**](http://www.smzdm.com/), a Buyers' Guide.                                                |   
-|                 | [Chip Hell](http://www.chiphell.com/), a cutting-edge review site                               |   
-
-### Consmetic    
+## Consmetic    
 + [Bonjour](http://www.bonjourhk.com/tc/main.aspx)
 + [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)
 
-### Promotions    
+## Promotions    
 + [GetJetso.com](http://www.getjetso.com/)
 
-### Track Your Express    
+## Track Your Express    
 + [Track with Number](http://www.yto5.cn/)
 
-## SiteIsDownOrBlocked    
+# SiteIsDownOrBlocked    
 + Use [this site](http://isdownorblocked.com/) to chek other sites.    
 + [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)    
 
