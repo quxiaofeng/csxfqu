@@ -54,12 +54,12 @@ description: Comp5222 and thoughts on software testing
 + Sensitive and emotional
 
 ## Standards
-1. [IEEE Std. 829]({{ site.url }}\images\ieee829.pdf), IEEE Standard for Software and System Test Documentation
-2. [IEEE Std. 1008]({{ site.url }}\images\ieee1008.pdf), IEEE Standard for Software Unit Testing
-3. [IEEE Std. 1012]({{ site.url }}\images\ieee1012.pdf), IEEE Standard for Software Verification and Validation
-4. [IEEE Std. 1059]({{ site.url }}\images\ieee1059.pdf), IEEE Guide for Software Verification and Validation Plans
-5. [IEEE Std. 1028]({{ site.url }}\images\ieee1028.pdf), IEEE Standard for Software Reviews and Audits
-6. [IEEE Std. 1044]({{ site.url }}\images\ieee1044.pdf), IEEE Standard Classification for Software Anomalies
+1. IEEE Std. 829, IEEE Standard for Software and System Test Documentation
+2. IEEE Std. 1008, IEEE Standard for Software Unit Testing
+3. IEEE Std. 1012, IEEE Standard for Software Verification and Validation
+4. IEEE Std. 1059, IEEE Guide for Software Verification and Validation Plans
+5. IEEE Std. 1028, IEEE Standard for Software Reviews and Audits
+6. IEEE Std. 1044, IEEE Standard Classification for Software Anomalies
 
 ## Some useful webpages
 
