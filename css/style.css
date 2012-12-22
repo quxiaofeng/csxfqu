@@ -493,6 +493,7 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
     #contain { margin-left: 30%; min-width: 69.9%; width; 69.9%; overflow: hidden; }
     .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post img, .post audio, .post iframe, .post audio, .post canvas, .post video {
         max-width: 500px;
+        width: 500px;
     }
 }
 /*************************
@@ -511,6 +512,7 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
     .post { width: 90%; padding: 0 5%; margin: 30px 0; overflow: hidden; scroll-x: hidden;}
     .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post img, .post audio, .post iframe, .post audio, .post canvas, .post video {
        max-width: 100%;
+       width: 100%;
     }
     .post pre {
         width: 96%;
