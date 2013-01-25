@@ -492,8 +492,8 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
     #begin { width: 90%; padding: 30px 5%; }
     #contain { margin-left: 30%; min-width: 69.9%; width; 69.9%; overflow: hidden; }
     .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post audio, .post iframe, .post audio, .post canvas, .post video {
-        max-width: 500px;
         width: 500px;
+        max-width: 500px;
     }
     .post img {
         max-width: 500px;
@@ -513,11 +513,7 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
     #begin { display: none;  }
     #contain { margin-left: 0; padding: 0;min-width: 100%;  width: 100%; float:left; }
     .post { width: 90%; padding: 0 5%; margin: 30px 0; overflow: hidden; scroll-x: hidden;}
-    .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post audio, .post iframe, .post audio, .post canvas, .post video {
-       max-width: 100%;
-       width: 100%;
-    }
-    .post img {
+    .post p, .post h3, .post h4, .post blockquote, .post li, .post table, .post img, .post audio, .post iframe, .post audio, .post canvas, .post video {
        max-width: 100%;
     }
     .post pre {
@@ -535,4 +531,5 @@ h1, h2, h3, h4, h5, h6{ font-weight: 500; color:#333; }
         padding-left: 0;
 
     }
+    .post table th, .post table td { border: 1px solid #ddd; padding: 2px 0px; }
 }
