@@ -9,9 +9,9 @@ tags : [reading, kindle]
 
 # Book Resources (WIFI)
 
-+ [ikandou books](http://ikandou.com/book/)    
-+ [book.zi5](http://book.zi5.me/)    
-+ [ShuCang](http://shucang.org/web/)
++ [ikandou books](http://ikandou.com)    
++ [book.zi5](http://book.zi5.me)    
++ [ShuCang](http://shucang.org/web)
 
 # Magazine Subscription Resources (WIFI)
 
