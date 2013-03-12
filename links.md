@@ -5,6 +5,9 @@ date: Shortcuts to daily life and work.
 ---
 <article class="post">
 ![My Lovely Son]({{ site.imageLink }})
+
++ [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
+
 <h3>Contact Me</h3>
 <ul>
     <li><a href="{{ site.follow.twitter }}" target="_blank"><i class="icon-twitter-sign"></i> Twitter</a></li>
@@ -17,11 +20,6 @@ date: Shortcuts to daily life and work.
     <li><a href="{{ site.follow.linkedin }}" target="_blank"><i class="icon-linkedin-sign"></i>linkedin</a></li>
     <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
-
-<h3>Links</h3>
-
-+ [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
-+ [Jokes]({{ site.url }}{% post_url 2012-10-27-jokes %})
      
 ## TA and course work      
 
