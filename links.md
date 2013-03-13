@@ -4,6 +4,7 @@ title: Links
 date: Shortcuts to daily life and work.
 ---
 <article class="post">
+
 ![My Lovely Son]({{ site.imageLink }})
 
 + [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
@@ -21,18 +22,11 @@ date: Shortcuts to daily life and work.
     <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
      
-## TA and course work      
+## [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog
 
-+ TA: [ENG2003](https://github.com/quxiaofeng/eng2003)     
-+ course: [COMP5222 software testing]({{ site.url }}{% post_url 2012-09-10-software-testing %})     
-+ Guided study: software engineering
-  + A report on "BDD software development"
-  + A PPT on the same title
++ The source code of this blog is hosted in [github](https://github.com/quxiaofeng/csxfqu).
 
-## [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog    
-
-+ The source code of this blog is hosted in [github](https://github.com/quxiaofeng/csxfqu).    
-+ [theOne theme](https://github.com/pizn/blogTheme) is used for this blog, and [the developer PIZn's post](http://www.pizn.net/14-11-2012/theone-blog-theme/) about it.        
++ [theOne theme](https://github.com/pizn/blogTheme) is used for this blog, and [the developer PIZn's post](http://www.pizn.net/14-11-2012/theone-blog-theme/) about it.
      
 ## Reading History      
     
