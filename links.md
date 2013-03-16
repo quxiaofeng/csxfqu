@@ -7,7 +7,16 @@ date: Shortcuts to daily life and work.
 
 ![My Lovely Son]({{ site.imageLink }})
 
-+ [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})     
+### [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})
++ [News]({{ site.url }}{% post_url 2012-09-15-news %})
++ [Video]({{ site.url }}{% post_url 2012-10-03-online-videos %})
++ [PolyU Links]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
++ [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
++ [kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
+
+### [TODO notes](https://bitbucket.org/quxiaofeng/todonotes)
+
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=480&amp;wkst=2&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=tqa202la1dnrb70ld90094d31c%40group.calendar.google.com&amp;color=%232F6309&amp;src=zh_cn.hong_kong%23holiday%40group.v.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FHong_Kong" style=" border-width:0 " width="640" height="480" frameborder="0" scrolling="no"></iframe>
 
 <h3>Contact Me</h3>
 <ul>
@@ -22,13 +31,13 @@ date: Shortcuts to daily life and work.
     <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
      
-## [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog
+### [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog
 
 + The source code of this blog is hosted in [github](https://github.com/quxiaofeng/csxfqu).
 
 + [theOne theme](https://github.com/pizn/blogTheme) is used for this blog, and [the developer PIZn's post](http://www.pizn.net/14-11-2012/theone-blog-theme/) about it.
      
-## Reading History      
+### Reading History      
     
 <script type="text/javascript" src="http://www.douban.com/service/badge/gBlueBird/?show=collection&amp;select=random&amp;n=18&amp;columns=6&amp;hidelogo=yes&amp;cat=book" ></script>    
     
