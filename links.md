@@ -30,7 +30,7 @@ date: Shortcuts to daily life and work.
     <li><a href="{{ site.follow.weibo }}" target="_blank"><i class="icon-rss"></i>weibo</a></li>
     <li><a href="{{ site.follow.tencent }}" target="_blank"><i class="icon-pinterest-sign"></i>tencent</a></li>
     <li><a href="{{ site.follow.linkedin }}" target="_blank"><i class="icon-linkedin"></i>linkedin</a></li>
-    <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker icon-large"></i>Mendeley</a></li>
+    <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
 </ul>
      
 ### [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog
