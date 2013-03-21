@@ -22,6 +22,7 @@ follow:
     tencent:      http://t.qq.com/quxiaofeng
     gscholar:     http://scholar.google.com.hk/citations?user=zgRM4foAAAAJ&hl=en
     github:       https://github.com/quxiaofeng
+    bitbucket:    https://bitbucket.org/quxiaofeng
 description:      "Qu Xiaofeng's personal site and blog."
 
 indexContent:     true
@@ -30,7 +31,7 @@ imageLink:        http://www4.comp.polyu.edu.hk/~csxfqu/images/son.jpg
 
 style: 			  /css/style.css
 blogName:         ELI
-blogDesc:         Qu Xiaofeng's Blog
+blogDesc:         Qu Xiaofeng
 blogInfo:         This site records my life and work in PolyU. It helps me make my life easier, and my thoughts organized. Hope it can help somebody else.
 
 favicon:          /favicon.ico
