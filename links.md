@@ -40,7 +40,5 @@ date: Shortcuts to daily life and work.
 
 ### Reading History      
     
-<script type="text/javascript" src="http://www.douban.com/service/badge/gBlueBird/?show=collection&amp;select=random&amp;n=18&amp;columns=6&amp;hidelogo=yes&amp;cat=book" ></script>    
-    
-<article class="post">
-
+<script type="text/javascript" src="http://www.douban.com/service/badge/gBlueBird/?show=collection&amp;select=random&amp;n=6&amp;columns=3&amp;hidelogo=yes&amp;cat=book" ></script>
+<p></p>
