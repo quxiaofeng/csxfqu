@@ -18,14 +18,14 @@ date: Shortcuts to daily life and work.
 <h3>Links</h3>
 <h4>Code Repo</h4>
 <ul>
-    <li><a href="{{ site.follow.bitbucket }}" target="_blank"><i class="icon-random"></i>Bitbucket</a></li>
+    <li><a href="{{ site.follow.bitbucket }}" target="_blank"><img src="https://bitbucket.org/favicon.ico" width="12" height="12" />&nbsp;Bitbucket</a></li>
     <li><a href="{{ site.follow.github }}" target="_blank"><i class="icon-github"></i>GitHub</a></li>
 </ul>
 <h4>Academic Profile</h4>
 <ul>
     <li><a href="{{ site.follow.gscholar }}" target="_blank"><i class="icon-book"></i>Google Scholar</a></li>
     <li><a href="{{ site.follow.linkedin }}" target="_blank"><i class="icon-linkedin"></i>LinkedIn</a></li>
-    <li><a href="{{ site.follow.mendeley }}" target="_blank"><i class="icon-beaker"></i>Mendeley</a></li>
+    <li><a href="{{ site.follow.mendeley }}" target="_blank"></i><img src="http://www.mendeley.com/graphics/favicon.ico" width="12" height="12" />&nbsp;Mendeley</a></li>
 </ul>
 <h4>Social Network</h4>
 <ul>
