@@ -13,6 +13,7 @@ date: Shortcuts to daily life and work.
 + [PolyU Links]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
 + [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
 + [kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
++ [Lab FTP](ftp://pq702:pq702@brcftp.quxiaofeng.me:21)
 + [TODO notes](https://github.com/quxiaofeng/todonotes)
 
 <h3>Links</h3>
