@@ -19,7 +19,7 @@ date: Shortcuts to daily life and work.
 <h3>Links</h3>
 <h4>Code Repo</h4>
 <ul>
-    <li><a href="{{ site.follow.bitbucket }}" target="_blank">&nbsp;<img src="https://bitbucket.org/favicon.ico" width="12" height="12" />&nbsp;Bitbucket</a></li>
+    <li><a href="{{ site.follow.bitbucket }}" target="_blank"><i class="icon-exchange"></i>&nbsp;Bitbucket</a></li>
     <li><a href="{{ site.follow.github }}" target="_blank"><i class="icon-github"></i>GitHub</a></li>
 </ul>
 <h4>Academic Profile</h4>
