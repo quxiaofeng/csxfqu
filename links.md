@@ -8,12 +8,9 @@ date: Shortcuts to daily life and work.
 ![My Lovely Son]({{ site.imageLink }})
 
 ### [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})
-+ [News]({{ site.url }}{% post_url 2012-09-15-news %})
-+ [Video]({{ site.url }}{% post_url 2012-10-03-online-videos %})
 + [PolyU Links]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
 + [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
 + [kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
-+ [Lab FTP](ftp://pq702:pq702@brcftp.quxiaofeng.me:21)
 
 <h3>Links</h3>
 <h4>Code Repo</h4>
