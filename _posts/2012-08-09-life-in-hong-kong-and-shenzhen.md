@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
-tags : [life, hongkong, shenzhen, news, video, shopping]
-description: Websites for every day life, which include weather, banks, cellphone, news, music, online videos, cinemas, and shoppings.
+tags: [life, hongkong, shenzhen, news, video, shopping]
+description: Websites for everyday life.
 ---
 
 # Life
@@ -289,4 +289,4 @@ China Mainland Visa Label (Luohu Agency/广东省公安厅深圳出入境签证�
 China Mainland Visa Label ([*HKCTS*](http://www.ctshk.com/zhengjian/rencai/rencai.htm)/[*港中旅*](http://www.ctshk.com/zhengjian/rencai/rencai.htm))
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
-Omitted
+Omitted.
