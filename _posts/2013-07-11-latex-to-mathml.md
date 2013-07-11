@@ -1,4 +1,4 @@
-﻿---
+---
 layout      : post
 tage        : [web, latex]
 title       : LaTeX 向 MathML 的转换 
@@ -28,7 +28,7 @@ description : Tools, libs, research and method about translating LaTeX code to M
 
 + [MathML 与 LaTeX 的映射关系分析](http://www.ibm.com/developerworks/cn/xml/x-mathml2/)
 
-+ [架構於 MathML並支援LaTeX 輸入之數學討論版設計](latex2mathml.pdf) by 黃皇男, 顏佩君, 王婕
++ [架構於 MathML並支援LaTeX 輸入之數學討論版設計](https://github.com/quxiaofeng/csxfqu/raw/master/images/latex2mathml.pdf) by 黃皇男, 顏佩君, 王婕
 
 示例
 ============
