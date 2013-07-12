@@ -8,9 +8,8 @@ date: Shortcuts to daily life and work.
 ![My Lovely Son]({{ site.imageLink }})
 
 ### [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})
-+ [PolyU Links]({{ site.url }}{% post_url 2012-09-21-links-inside-polyu %})
 + [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
-+ [kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
++ [Kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
 
 <h3>Links</h3>
 <h4>Code Repo</h4>

@@ -14,11 +14,13 @@ description: Tools and websites helping writing.
 + [__Corpus of Research Articles__](http://rcpce.engl.polyu.edu.hk/RACorpus/default.htm) by PolyU English Department    
 + [WordReference](http://forum.wordreference.com/index.php?s=7a7782c4c0a5f62355cb19813de51f3d)    
 + [English Language & Usage](http://english.stackexchange.com/)    
++ [Googlefight](http://googlefight.com/)
 
 ## Search Engines    
 + [google scholar](http://scholar.google.com.hk/schhp?hl=en)    
 + [MS Academic](http://academic.research.microsoft.com/)    
-+ [IEEE](http://ieeexplore.ieee.org/Xplore/home.jsp?tag=1)    
++ [IEEE](http://ieeexplore.ieee.org/Xplore/home.jsp?tag=1)   
++ [ScienceDirect](http://www.sciencedirect.com/) 
 
 # Writing Asistants
 
@@ -41,7 +43,14 @@ description: Tools and websites helping writing.
 + [LaTeX Math Symbols](http://web.ift.uib.no/Teori/KURS/WRK/TeX/symALL.html)    
 + [Draw Symbol](http://detexify.kirelabs.org/classify.html)    
 + [BibTeX and bibliography styles](http://amath.colorado.edu/documentation/LaTeX/reference/faq/bibstyles.html)    
-+ [TpX Project](http://tpx.sourceforge.net/), TeX drawing tool [Download](https://sourceforge.net/project/showfiles.php?group_id=122576)    
++ [TpX Project](http://tpx.sourceforge.net/), TeX drawing tool [Download](https://sourceforge.net/project/showfiles.php?group_id=122576)   
++ [BaKoMa TeX](http://www.bakoma-tex.com/menu/about.php) is an innovative TeX/LaTeX implementation with BaKoMa TeX Word - a Visual (True WYSIWYG) LaTeX Editor.
+
+
+### LaTeX Resources
++ [The PracTeX Journal](http://tug.org/pracjourn/info.html)
++ [LaTeX Studio](http://www.latexstudio.net/)
++ [ChinaTex](http://www.chinatex.org/)
 
 ## CMS    
 + [Mendeley](http://www.mendeley.com/)    
