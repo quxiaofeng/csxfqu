@@ -74,7 +74,7 @@ description: Websites for everyday life.
     </tr>
     <tr>
         <th></th>
-        <td><a href="http://hk.news.yahoo.com">Yahoo News HK</a></td>
+        <td><a href="http://news.yahoo.com">Yahoo News</a></td>
     </tr>
     <tr>
         <th></th>
