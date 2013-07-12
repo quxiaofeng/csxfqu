@@ -1,4 +1,4 @@
-﻿---
+---
 layout      : post
 tage        : [3d]
 title       : 3D Flattening Tools and Libs 
