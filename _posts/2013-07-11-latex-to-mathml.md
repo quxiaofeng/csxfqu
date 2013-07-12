@@ -1,4 +1,4 @@
-﻿---
+---
 layout      : post
 tage        : [web, latex]
 title       : LaTeX 向 MathML 的转换 
@@ -23,6 +23,13 @@ description : Tools, libs, research and method about translating LaTeX code to M
 + [A Brief Description of LaTeXMathML](http://math.etsu.edu/LaTeXMathML/) by [Jeff Knisley](https://sites.google.com/site/drjknisley/)
 
 + [The LaTeXMathML Perl Port](http://pillars.che.pitt.edu/LaTeXMathML/) by [Peter Williams](mailto:broadway@city-net.com)
+
+标准
+=============
+
+### [MathML](http://www.w3.org/Math/)
+
+可以在该标准网站找到使用该标准的[软件列表](http://www.w3.org/Math/Software/)，其中有一个[代码转换软件列表](http://www.w3.org/Math/Software/mathml_software_cat_converters.html)。
 
 研究资料
 ============
