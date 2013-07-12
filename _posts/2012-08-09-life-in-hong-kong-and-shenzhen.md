@@ -3,57 +3,58 @@ layout: post
 tags: [life, hongkong, shenzhen, news, video, shopping]
 description: Websites for everyday life.
 ---
+## [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php) Links
 
-# Life
++ [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php)    
++ [Email - Connect](https://login.live.com/login.srf?cbcxt=out&vv=910&wa=wsignin1.0&wtrealm=urn:federation:MicrosoftOnline&wctx=wa%3Dwsignin1.0%26rpsnv%3D2%26ct%3D1340602759%26rver%3D6.1.6206.0%26wp%3DMBI_KEY%26wreply%3Dhttps:%252F%252Fwww.outlook.com%252Fowa%252F%26id%3D260563%26CBCXT%3Dout)   
++ [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)   
++ [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/)
++ [Library](http://www.lib.polyu.edu.hk/)    
+
+### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)  
+
++ [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)     
++ [Intranet](https://intranet.comp.polyu.edu.hk/)  
++ [iPrint Printer Driver](http://csnw03.comp.polyu.edu.hk/ipp)    
+
+## Life
 
 <table>
 <tbody>
     <tr>
         <th>Weather   </th>
-        <td>
-            <ul>
-                <li><a href="http://www.hko.gov.hk/wxinfo/currwx/fndc.htm">Observatory</a></li>
-            </ul>
-        </td>
+        <td><ul><li><a href="http://www.hko.gov.hk/wxinfo/currwx/fndc.htm">Observatory</a></li></ul></td>
     </tr>
     <tr>
         <th>Banks     </th>
-        <td>
-            <ul>
-                <li><a href="https://e-banking1.hangseng.com">HangSeng</a></li>
+        <td><ul><li><a href="https://e-banking1.hangseng.com">HangSeng</a></li>
                 <li><a href="https://mobile.hkbea-cyberbanking.com/servlet/FRLogon">BEA</a></li>
                 <li><a href="https://ibank.standardchartered.com.hk/nfs/login.htm">Standard Chartered</a></li>
-                <li><a href="https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html">PPS</a></li>
-            </ul>
-        </td>
+                <li><a href="https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html">PPS</a></li></ul></td>
     </tr>
     <tr>
         <th>Currencies</th>
-        <td>
-            <ul>
-                <li><a href="http://www.xe.com/zh/">XE</a></li>
-            </ul>
-        </td>
+        <td><ul><li><a href="http://www.xe.com/zh/">XE</a></li></ul></td>
     </tr>
     <tr>
         <th>Cellphone </th>
-        <td>
-            <ul>
-                <li><a href="https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill">Three Company</a></li>
-            </ul>
-        </td>
+        <td><ul><li><a href="https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill">Three Company</a></li></ul></td>
+    </tr>
+    <tr>
+        <th>VPN</th>
+        <td><ul><li><a href="http://www.vpncloud.me/">VPN Cloud</a></li></ul></td>
     </tr>
 </tbody>
 </table>
 
-# Forums or Blogs
+## Forums or Blogs
 <ul>
     <li><a href="http://www.newsmth.net">水木社区 SMTH</a></li>
     <li><a href="http://lifehacker.com">Life Hacker</a></li>
     <li><a href="http://blog.ifeng.com/4177985.html">偶尔一笔(凤凰网博客)</a>, 桥本隆则 日籍华裔 (for world)</li>
 </ul>
 
-# News
+## News
 <table>
 <tbody>
     <tr>
@@ -103,7 +104,7 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-# Online Music
+## Online Music
 
 <table>
 <tbody>
@@ -112,7 +113,7 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-# Online Video Site
+## Online Video Site
 
 <table>
 <tbody>
@@ -130,7 +131,7 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-# Video Download Site
+## Video Download Site
 
 <table>
 <tbody>
@@ -146,7 +147,7 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-# Cinemas
+## Cinemas
 <table>
 <tbody>
     <tr><th>Hong Kong </th>
@@ -164,9 +165,9 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-# Shopping
+## Shopping
 
-## IT Products
+### IT Products
 <table>
 <tbody>
     <tr><th>Official  </th>
@@ -192,39 +193,37 @@ description: Websites for everyday life.
 </tbody>
 </table>
 
-## Consmetic    
+### Consmetic    
 + [Bonjour](http://www.bonjourhk.com/tc/main.aspx)
 + [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)
 
-## Promotions    
+### Promotions    
 + [GetJetso.com](http://www.getjetso.com/)
 
-## Track Your Express    
+### Track Your Express    
 + [Track with Number](http://www.yto5.cn/)
 
-# SiteIsDownOrBlocked    
+## SiteIsDownOrBlocked    
 + Use [this site](http://isdownorblocked.com/) to chek other sites.    
 + [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)    
 
 Extension of Stay for Student and dependent (签注延期)
-======================================================
+-----------------------------------------------------------
 
-PolyU Testimonial Letter
-------------------------
+### PolyU Testimonial Letter
 
 1.  Fill out, print and sign the RC/19 [*download*](http://www.polyu.edu.hk/ro/forms/FormRC19.doc) from.
 2.  Pay HK$ 30.00(one testimonial copy) with the printed RC/19 form (in order to show your purpose) in Cashier Office at VA205 ([*check office hours*](http://www.polyu.edu.hk/fo/FO_Web/index.php?page=9)) in the Shaw Amenities Building. And get the receipt.
 3.  Take the receipt, your HK ID card and [Two-way Permit](http://en.wikipedia.org/wiki/Two-way_Permit) / [往来港澳通行证](http://zh.wikipedia.org/wiki/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%BE%80%E6%9D%A5%E6%B8%AF%E6%BE%B3%E9%80%9A%E8%A1%8C%E8%AF%81) to Research Office ([*check office hours*](http://www.polyu.edu.hk/ro/newROContact_stud.html)) at M501 in Li Ka Shing Tower.
 4.  Wait at most four working days to get this. And there will be a letter tell you what to do next.
 
-HK Visa Label (in person)
--------------------------
+### HK Visa Label (in person)
 
 Generally follow [*this guide*](http://www.immd.gov.hk/en/faq/extend-stay-terminate-sponsorship-transfer-endorsement.html#non_local_extend) / [*办理方法*](http://www.immd.gov.hk/sc/faq/extend-stay-terminate-sponsorship-transfer-endorsement.html#non_local_extend).
 
-### Take all files listed below to Immigration Department ([*check address and office hours*](http://www.immd.gov.hk/sc/services/addresses/branch-office.html)).
+#### Take all files listed below to Immigration Department ([*check address and office hours*](http://www.immd.gov.hk/sc/services/addresses/branch-office.html)).
 
-#### Student / 学生 (according to [*this page*](http://www.gov.hk/sc/residents/immigration/nonpermanent/extensionstaynpr/esgen.htm) )
+##### Student / 学生 (according to [*this page*](http://www.gov.hk/sc/residents/immigration/nonpermanent/extensionstaynpr/esgen.htm) )
 
 -   Fill out, print and sign the form ID91 ([*download*](http://www.immd.gov.hk/pdforms/id91.pdf)).
 -   HK ID card and a copy (only front)
@@ -236,7 +235,7 @@ Generally follow [*this guide*](http://www.immd.gov.hk/en/faq/extend-stay-termin
 -   Testimonial letter from RO
 -   Bank monthly statement (print out the electronic statement)
 
-#### Dependent / 受养人 (according to [*the same page*](http://www.gov.hk/sc/residents/immigration/nonpermanent/extensionstaynpr/esgen.htm) )
+##### Dependent / 受养人 (according to [*the same page*](http://www.gov.hk/sc/residents/immigration/nonpermanent/extensionstaynpr/esgen.htm) )
 
 -   Fill out, print and sign the form ID91 ([*download*](http://www.immd.gov.hk/pdforms/id91.pdf)).
 -   Fill out, print and sign the form ID481A ([*download*](http://www.immd.gov.hk/pdforms/id481ac.pdf)).
@@ -248,19 +247,17 @@ Generally follow [*this guide*](http://www.immd.gov.hk/en/faq/extend-stay-termin
     -   Last page with a photo
     -   Last exit and entry page
 
-### Take the receipt and wait for seven working days
+#### Take the receipt and wait for seven working days
 
-### Bring the receipt, two-way permit and HK$ 160 to collect visa label
+#### Bring the receipt, two-way permit and HK$ 160 to collect visa label
 
-HK Visa Label (on-line)
------------------------
+### HK Visa Label (on-line)
 
 Less than four weeks before last visa label expiring.
 
 Upload scanned files.
 
-China Mainland Visa Label (Luohu Agency/广东省公安厅深圳出入境签证办事处)
--------------------------------------------------------------------
+### China Mainland Visa Label (Luohu Agency/广东省公安厅深圳出入境签证办事处)
 
 > 地址：深圳市罗湖区南湖路1001号广东省公安厅深圳出入境签证办事处综合楼  
 > 咨询电话：0755-82329899  
@@ -286,7 +283,6 @@ China Mainland Visa Label (Luohu Agency/广东省公安厅深圳出入境签证�
       - China visa page
 
 
-China Mainland Visa Label ([*HKCTS*](http://www.ctshk.com/zhengjian/rencai/rencai.htm)/[*港中旅*](http://www.ctshk.com/zhengjian/rencai/rencai.htm))
---------------------------------------------------------------------------------------------------------------------------------------------------
+### China Mainland Visa Label ([*HKCTS*](http://www.ctshk.com/zhengjian/rencai/rencai.htm)/[*港中旅*](http://www.ctshk.com/zhengjian/rencai/rencai.htm))
 
 Omitted.

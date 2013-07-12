@@ -44,6 +44,8 @@ description: Tools and websites helping writing.
 + [Draw Symbol](http://detexify.kirelabs.org/classify.html)    
 + [BibTeX and bibliography styles](http://amath.colorado.edu/documentation/LaTeX/reference/faq/bibstyles.html)    
 + [TpX Project](http://tpx.sourceforge.net/), TeX drawing tool [Download](https://sourceforge.net/project/showfiles.php?group_id=122576)   
++ [BaKoMa TeX](http://www.bakoma-tex.com/menu/about.php) is an innovative TeX/LaTeX implementation with BaKoMa TeX Word - a Visual (True WYSIWYG) LaTeX Editor.
+
 
 ### LaTeX Resources
 + [The PracTeX Journal](http://tug.org/pracjourn/info.html)
