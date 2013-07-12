@@ -1,11 +1,11 @@
----
+﻿---
 layout      : post
 tage        : [web, latex]
 title       : LaTeX 向 MathML 的转换 
 description : Tools, libs, research and method about translating LaTeX code to MathML code.
 ---
 
-在网页上显示数学公式一直是个难题。尽管已经有 MathML 这个数学公式的 W3C 标准，但其代码的编写繁复，难以手工撰写。另一方面 LaTeX 是学术领域内数学公式编写的事实标准。所以将 LaTeX 代码转换为 MathML 代码显示，便成为一个比较好的方案。
+在网页上显示数学公式一直是个难题。尽管已经有 [MathML](http://www.w3.org/Math/) 这个数学公式的 W3C 标准，但其代码的编写繁复，难以手工撰写。另一方面 LaTeX 是学术领域内数学公式编写的事实标准。所以将 LaTeX 代码转换为 MathML 代码显示，便成为一个比较好的方案。
 
 开源工具
 =================================
@@ -21,6 +21,7 @@ description : Tools, libs, research and method about translating LaTeX code to M
 当前有两个活跃分支：
 
 + [A Brief Description of LaTeXMathML](http://math.etsu.edu/LaTeXMathML/) by [Jeff Knisley](https://sites.google.com/site/drjknisley/)
+
 + [The LaTeXMathML Perl Port](http://pillars.che.pitt.edu/LaTeXMathML/) by [Peter Williams](mailto:broadway@city-net.com)
 
 研究资料
@@ -33,7 +34,7 @@ description : Tools, libs, research and method about translating LaTeX code to M
 示例
 ============
 
-### [FreeMind blog](http://freemind.pluskid.org/) by Chiyuan Zhang
+### [FreeMind blog](http://freemind.pluskid.org/) by [Chiyuan Zhang](http://pluskid.org/)
 该博客使用基于 Ruby 的工具链编译 markdown 文件，生成静态博客。同时使用 pandoc 提供 pdf 版本，效果较好。
 
 博客中有关设置的文章：
@@ -43,4 +44,4 @@ description : Tools, libs, research and method about translating LaTeX code to M
 
 + [Printable Version (PDF) of this Blog](http://freemind.pluskid.org/misc/printable-version-pdf-of-this-blog/) 关于 LaTeX to MathML 的转换和 pdf 文件生成的经验
 
-该博客作者提供了一个未完善的小工具
+该博客作者提供了一个未完善的小工具 ([Github Repo](https://github.com/pluskid/texml))。
