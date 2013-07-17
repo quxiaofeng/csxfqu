@@ -14,6 +14,14 @@ description: Resources on sparse and low rank algorithms
 + [Emmanuel Candes in Stanford](http://www-stat.stanford.edu/~candes/)    
 + [Bellard](http://bellard.org/), and [his page on Wiki](http://zh.wikipedia.org/wiki/Fabrice_Bellard)    
 
+## Deep Learning
+
+### [Deep Learning for NLP](http://nlp.stanford.edu/courses/NAACL2013/), a tutorial.
+
+### [Unsupervised Feature Learning and Deep Learning](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ufldl), a open course.
+
+### [Deep Learning Methods for Vision](http://cs.nyu.edu/~fergus/tutorials/deep_learning_cvpr12/), a CVPR 2012 tutorial.
+
 ## Other Algorithms Sites
 
 + [CVonline](http://homepages.inf.ed.ac.uk/rbf/CVonline/CVentry.htm) and the [WIKI](https://sites.google.com/site/cvonlinewiki/home)
