@@ -28,28 +28,19 @@ Commercial Software
 > 
 > You can design accurate patterns only using Marvelous Designer without help of the other pattern CADs. Marvelous Designer supports for polyline, free curve and dart drawing. Create your own styles now.
 > 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview1.jpg)
-> 
 > + Synchronization of pattern editing and 3d draping for Interactive Design
 >
 >Any pattern modifications are completely and immediately reflected on the draping of 3D clothes in real-time. Experience the most intuitive and efficient clothes design interface in the world.
 > 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview2.jpg)
->
 > #### Easy sewing and folding
 > 
 > + Easy-to-use sewing operations
 > 
 > With only a few mouse works you can sew any patterns in any styles. See the animation below.
 > 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview8.gif)
-> 
-> 
 > + Support for Tuck, Shirring, Pleat, Gather, Ironed line making
 > 
 > Marvelous Designer supports for multi-layered sewing. With this feature you can make more complex designs like Tuck and Gather. Another key feature is the folding operation. You can make folds on any seams and clothes. The folding function enables us to make pleats and ironed lines.
-> 
-> ![Tuck](http://www.marvelousdesigner.com/marvelous/overview/overview9.jpg) ![Shirring](http://www.marvelousdesigner.com/marvelous/overview/overview10.jpg) ![Pleats](http://www.marvelousdesigner.com/marvelous/overview/overview11.jpg) ![Ironed Line](http://www.marvelousdesigner.com/marvelous/overview/overview12.jpg)
 > 
 > #### Fast and Accurate Draping
 > 
@@ -57,27 +48,19 @@ Commercial Software
 > 
 > You can experience fast and complete draping results for any complicated clothes. The improvements in speed and quality have been achieved by using a novel Multi-Level simulation which has been studied and developed in our team. Furthermore, parallelized algorithms bring more speed-ups with multi-core CPUs.
 > 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview13.gif)
-> 
 > + Support for a variety of physical properties
 > 
 > The physical characteristics of cloth are digitized and parametrized into a variety of properties - Stretching/ Shearing/Bending stiffness, Damping, Density, Thickness and so on. Controlling this parameters allows simulating various kinds of cloth materials.
 > 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview17.jpg)
-> 
 > + One-click pattern placement using "Arrangement Point"
 > 
 > Marvelous Designer provides an easy way to arrange patterns around an avatar for draping. That is the 'Arrangement Point' which indicates the key position to place patterns. Only thing you need is to pick a pattern and to click "Arrangement Point" you want to place it on.
-> 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview14.jpg)
 > 
 > #### Realtime Rendering
 > 
 > + High-quality realtime rendering
 > 
 > Our realtime renderer provides high-quality images comparable with real clothing. Look forward to more advanced features such as bump mapping, soft shadows and global illumination in future versions.
-> 
-> ![](http://www.marvelousdesigner.com/marvelous/overview/overview21.jpg)
 > 
 > #### Wide Compatibility
 > 
