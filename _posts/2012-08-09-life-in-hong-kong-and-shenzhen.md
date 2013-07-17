@@ -3,6 +3,7 @@ layout: post
 tags: [life, hongkong, shenzhen, news, video, shopping]
 description: Websites for everyday life.
 ---
+
 ## [PolyU](http://www.polyu.edu.hk/cpa/polyu/index.php) Links
 
 + [Campus Map](http://www.polyu.edu.hk/fmo/eMap/map.php)    
@@ -19,40 +20,35 @@ description: Websites for everyday life.
 
 ## Life
 
-<table>
-<tbody>
-    <tr>
-        <th>Weather   </th>
-        <td><ul><li><a href="http://www.hko.gov.hk/wxinfo/currwx/fndc.htm">Observatory</a></li></ul></td>
-    </tr>
-    <tr>
-        <th>Banks     </th>
-        <td><ul><li><a href="https://e-banking1.hangseng.com">HangSeng</a></li>
-                <li><a href="https://mobile.hkbea-cyberbanking.com/servlet/FRLogon">BEA</a></li>
-                <li><a href="https://ibank.standardchartered.com.hk/nfs/login.htm">Standard Chartered</a></li>
-                <li><a href="https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html">PPS</a></li></ul></td>
-    </tr>
-    <tr>
-        <th>Currencies</th>
-        <td><ul><li><a href="http://www.xe.com/zh/">XE</a></li></ul></td>
-    </tr>
-    <tr>
-        <th>Cellphone </th>
-        <td><ul><li><a href="https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill">Three Company</a></li></ul></td>
-    </tr>
-    <tr>
-        <th>VPN</th>
-        <td><ul><li><a href="http://www.vpncloud.me/">VPN Cloud</a></li></ul></td>
-    </tr>
-</tbody>
-</table>
+#### Weather
+
++ [Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)
+
+#### Banks
+
++ [HangSeng](https://e-banking1.hangseng.com)
++ [BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
++ [Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
++ [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)
+
+#### Currencies
+
++ [XE](http://www.xe.com/zh)
+
+#### Cellphone
+
++ [Three Company](https://www.three.com.hk/appCS2/my3Account.do?lang=chi&appId=appCSCheckBill)
+
+#### VPN
+
++ [VPN Cloud](http://www.vpncloud.me)
 
 ## Forums or Blogs
-<ul>
-    <li><a href="http://www.newsmth.net">水木社区 SMTH</a></li>
-    <li><a href="http://lifehacker.com">Life Hacker</a></li>
-    <li><a href="http://blog.ifeng.com/4177985.html">偶尔一笔(凤凰网博客)</a>, 桥本隆则 日籍华裔 (for world)</li>
-</ul>
+
++ [水木社区 SMTH](http://www.newsmth.net)
++ [Life Hacker](Life Hacker)
++ [偶尔一笔](http://blog.ifeng.com/4177985.html), 桥本隆则 日籍华裔
++ [Hidden Harmonies China Blog](http://blog.hiddenharmonies.org/)
 
 ## News
 <table>
