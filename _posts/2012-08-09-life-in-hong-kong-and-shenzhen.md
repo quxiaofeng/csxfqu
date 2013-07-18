@@ -46,7 +46,7 @@ description: Websites for everyday life.
 ## Forums or Blogs
 
 + [水木社区 SMTH](http://www.newsmth.net)
-+ [Life Hacker](Life Hacker)
++ [Life Hacker](http://lifehacker.com/)
 + [偶尔一笔](http://blog.ifeng.com/4177985.html), 桥本隆则 日籍华裔
 + [Hidden Harmonies China Blog](http://blog.hiddenharmonies.org/)
 
