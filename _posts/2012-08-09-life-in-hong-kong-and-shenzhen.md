@@ -16,7 +16,8 @@ description: Websites for everyday life.
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)     
 + [Intranet](https://intranet.comp.polyu.edu.hk/)  
-+ [iPrint Printer Driver](http://csnw03.comp.polyu.edu.hk/ipp)    
++ [iPrint Printer Driver](http://csnw03.comp.polyu.edu.hk/ipp)   
++ [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin), Microsoft software for learning, teaching and research
 
 ## Life
 
