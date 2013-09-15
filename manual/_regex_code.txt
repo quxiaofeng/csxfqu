@@ -1,0 +1,65 @@
+## Gedit md and Vim htm
+
+### Update Form Link
+
+### remove class=""
+
+    :%s/\s*class="[^"]*"//g
+
+### Export <input>
+
+    :g/<input[^>]*>/.w >> EvaN#
+  
+## Vim EvaN#
+  
+### Clean <input>
+
+    :%s/^.*\(<input[^>]*>\).*$/\1/g
+    
+### Detele hidden & submit
+
+### Cut Name
+
+### Add "+ " and "Segmentation"
+
+    :%s/^<input/+ <input/g
+    
+    :%s/value="\([^"]\)".*$/&Segmentation \1/g
+    
+## Gedit EvaN#
+
+### Move to md file 
+
+### Paste image table
+
+## VIM md
+
+### Replace ### 1. Choose
+  
+    :nmap %% :let X=1<cr>1G!!
+
+    :nmap !! /\#\#\# 1. Choose<cr>:s/1\. Choose/\=X.'. Choose'/<cr>:let X=X+1<cr>!!
+    
+    %%
+    
+    51 -> 1
+    
+### Replace Image and Pair
+  
+    :nmap %% :let X=101<cr>1G!!
+
+    :nmap !! /Images\/1.png<cr>:s/1\.png/\=X.'.png'/<cr>:let X=X+1<cr>!!
+    
+    %%
+    
+    :nmap !! /Pair\/1_1.png<cr>:s/1_1\.png/\=X.'_1.png'/<cr>:let X=X+1<cr>!!
+    
+    %%
+    
+    :nmap !! /Pair\/1_2.png<cr>:s/1_2\.png/\=X.'_2.png'/<cr>:let X=X+1<cr>!!
+    
+    %%
+
+## Check Form #
+
+

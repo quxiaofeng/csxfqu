@@ -6,7 +6,7 @@ date        : Image Segmentation Evaluation Form 1
 
 <article class = "post">
 
-## Evaluation From N1
+## Evaluation From 1
 
 请判断以下分割结果是否正确划分出了图像中有意义的目标对象。
 
