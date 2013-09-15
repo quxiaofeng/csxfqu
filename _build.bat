@@ -1,5 +1,5 @@
 chcp 65001
 
-jekyll --safe
+jekyll build
 
 PAUSE
