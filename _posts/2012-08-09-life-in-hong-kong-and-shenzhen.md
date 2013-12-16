@@ -11,12 +11,13 @@ description: Websites for everyday life.
 + [Research Portal](https://www40.polyu.edu.hk/rostudportal/tologin.do)   
 + [Sports Facilities Booking System](https://www40.polyu.edu.hk/saosport/)
 + [Library](http://www.lib.polyu.edu.hk/)    
++ [University Health Service Online Booking](https://uhsappt.polyu.edu.hk/)
 
 ### [Computing Department](http://www.comp.polyu.edu.hk/en/home/index.php)  
 
 + [Webmail](https://webmail.comp.polyu.edu.hk/roundcubemail/)     
 + [Intranet](https://intranet.comp.polyu.edu.hk/)  
-+ [iPrint Printer Driver](http://csnw03.comp.polyu.edu.hk/ipp)   
++ [iPrint Printer Driver](http://sfps.comp.polyu.edu.hk/ipp)   
 + [HKPU COMP Dreamspark](https://dreamspark.comp.polyu.edu.hk/auth/auth.cgi?action=signin), Microsoft software for learning, teaching and research
 
 ## Life
@@ -34,7 +35,8 @@ description: Websites for everyday life.
 
 #### Currencies
 
-+ [XE](http://www.xe.com/zh)
++ [XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
++ [Bank of China Exchange Rate](http://www.boc.cn/sourcedb/whpj/)
 
 #### Cellphone
 
@@ -61,10 +63,6 @@ description: Websites for everyday life.
     <tr>
         <th></th>
         <td><a href="http://www.huanqiu.com">环球网</a></td>
-    </tr>
-    <tr>
-        <th></th>
-        <td><a href="http://www.cnbeta.com">cnBeta</a></td>
     </tr>
     <tr>
         <th>Hong Kong SAR</th>
@@ -115,14 +113,8 @@ description: Websites for everyday life.
 <table>
 <tbody>
     <tr><th>Video 2.0</th><th>World   </th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
-    <tr><th>         </th><th>Mainland</th><td><a href="http://www.youku.com">优酷</a></td></tr>
-    <tr><th>         </th><th>        </th><td><a href="http://www.tudou.com">土豆</a></td></tr>
     <tr><th>LiveTV   </th><th>Mainland</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
-    <tr><th>         </th><th>        </th><td><a href="http://www.topway.cn">威视网</a></td></tr>
-    <tr><th>         </th><th>        </th><td><a href="http://www.iqiyi.com">爱奇艺</a></td></tr>
-    <tr><th>         </th><th>Taiwan  </th><td><a href="http://sugoideas.com">sugoideas</a></td></tr>
     <tr><th>         </th><th>Russian </th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
-    <tr><th>         </th><th>American</th><td><a href="http://beelinetv.com">Beeline TV</a></td></tr>
     <tr><th>Cartoon  </th><th>        </th><td><a href="http://www.letv.com">乐视网</a></td></tr>
     <tr><th>         </th><th>        </th><td><a href="http://www.bilibili.tv">哔哩哔哩</a></td></tr>
 </tbody>
@@ -173,10 +165,6 @@ description: Websites for everyday life.
         <td><a href="http://www.price.com.hk">Price.com.hk</a></td></tr>
     <tr><th>          </th>
         <td><a href="http://store.apple.com/hk-zh">Apple Store</a></td></tr>
-    <tr><th>Used      </th>
-        <td><a href="http://dcfever.com/trading/listing.php?category=3">DCFever</a></td></tr>
-    <tr><th>          </th>
-        <td><a href="http://hk.auctions.yahoo.com/hk/23336-category.html?.r=1344488639">Yahoo.hk</a></td></tr>
     <tr><th>Comparisons</th>
         <td><a href="http://www.amazon.com">Amazon</a></td></tr>
     <tr><th>          </th>
