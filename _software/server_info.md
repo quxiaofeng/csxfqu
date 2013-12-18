@@ -5,4 +5,4 @@
 + Home: /home/research/csxfqu/public_html
 
 
-ssh://csxfqu@dahong03:csdoor.comp.polyu.edu.hk:22
+ssh csxfqu@csultra6.comp.polyu.edu.hk
