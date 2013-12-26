@@ -13,7 +13,7 @@ description : Standards, organizations in biometrcis.
 
 ## [NIST Biometric Standards](http://www.nist.gov/itl/iad/ig/biometric_standards.cfm)
 
-## [A Report](http://www.biometrics.gov/Documents/biostandards.pdf) from Biometrics.gov
+## [A Report](https://github.com/quxiaofeng/csxfqu/raw/master/_downloads/biostandards.pdf) from Biometrics.gov
 
 ## [A Biometric Standards Summary](http://www.planetbiometrics.com/biometric-standards/) in [Planet Biometrics](http://www.planetbiometrics.com/)
 
