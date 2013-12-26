@@ -112,9 +112,10 @@ description: Websites for everyday life.
 
 <table>
 <tbody>
-    <tr><th>Video 2.0</th><th>World   </th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
-    <tr><th>LiveTV   </th><th>Mainland</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
-    <tr><th>         </th><th>Russian </th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
+    <tr><th>Video 2.0</th><th>World</th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
+    <tr><th>Episodes with copyright</th><th>China PRC</th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
+     <tr><th>LiveTV   </th><th>China PRC</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
+    <tr><th>         </th><th>Russian</th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
     <tr><th>Cartoon  </th><th>        </th><td><a href="http://www.letv.com">乐视网</a></td></tr>
     <tr><th>         </th><th>        </th><td><a href="http://www.bilibili.tv">哔哩哔哩</a></td></tr>
 </tbody>

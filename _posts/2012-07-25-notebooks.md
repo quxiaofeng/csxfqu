@@ -28,7 +28,7 @@ description: A webpage started by the disputed student notebook ownership 2012. 
 ![windows 7 experience index]({{ site.url }}/images/windows_experience.png)    
 - Trying to find a friend in HKUST/HKBU/CITYU. **Solved, THANKS to ZHM.**
 
-#### System Test after Adding a mSATA SSD
+#### System Test after Adding the mSATA SSD
 
 *Some test are too slow to carry out.*
 
@@ -88,22 +88,13 @@ Worst at any field.
 - Thinkpad X230   
   - main working env   
   - Windows 7 64bit    
-  - VirtualBox Ubuntu 12.04 64bit   
+  - VirtualBox Ubuntu 13.10 64bit   
 - Two PCs in office    
-  - one can not copy to and from remote access    
-  - the QQ downloader can not be activated during remote accessing    
-- One PC at home    
-  - fast enough    
-  - maybe add some mobile HDDs in it, just keep things together.    
+  - One with Windows XP SP2 - PQ702a - quxiaofeng.no-ip.biz    
+  - One with Windows 8.1 - PQ702b - abrandy.no-ip.biz
+  - Fast enough
+  - Docs in both PCs synchronized with the Dropbox, and code with git (github or bitbucket)    
 - P8010    
   - Using by Jocelyn for office and entertainment purpose.    
 - M2010   
-  - On Sale  
-
-## Ubuntu 12.04 and Optimizing
-
-### An apple Virtual Machine for IOS development?  
-
-+ [Easily Run Mac OS X 10.8 Mountain Lion Retail on PC with VMware Image – Simple Steps](http://www.sysprobs.com/easily-run-mac-os-x-10-8-mountain-lion-retail-on-pc-with-vmware-image)    
-+ [SecurAble](http://www.grc.com/securable.htm), test processor securaty features.    
-
+  - Given to Gavin
