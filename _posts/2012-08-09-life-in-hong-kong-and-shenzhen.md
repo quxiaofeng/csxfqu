@@ -96,6 +96,22 @@ description: Websites for everyday life.
         <th></th>
         <td><a href="http://www.washingtontimes.com">The Washington Times</a></td>
     </tr>
+    <tr>
+        <th>Japan</th>
+        <td><a href="http://www.asahi.com">朝日新聞デジタル</a></td>
+    </tr>
+    <tr>
+        <th></th>
+        <td><a href="http://sankei.jp.msn.com/">MSN産経ニュース</a></td>
+    </tr>
+     <tr>
+        <th></th>
+        <td><a href="http://www.yomiuri.co.jp/">読売新聞</a></td>
+    </tr>
+     <tr>
+        <th></th>
+        <td><a href="http://www.nikkei.com/">日本経済新聞</a></td>
+    </tr>
 </tbody>
 </table>
 
@@ -113,7 +129,7 @@ description: Websites for everyday life.
 <table>
 <tbody>
     <tr><th>Video 2.0</th><th>World</th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
-    <tr><th>Episodes with copyright</th><th>China PRC</th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
+    <tr><th>Episodes with copyright</th><th>China PRC</th><td><a href="http://v.qq.com/">Tencent Video</a></td></tr>
      <tr><th>LiveTV   </th><th>China PRC</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
     <tr><th>         </th><th>Russian</th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
     <tr><th>Cartoon  </th><th>        </th><td><a href="http://www.letv.com">乐视网</a></td></tr>
