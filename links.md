@@ -3,7 +3,8 @@ layout: default
 title: Links
 date: Shortcuts to daily life and work.
 ---
-<article class ="post">
+
+<article class="post">
 
 ![My Lovely Son]({{ site.imageLink }})
 
@@ -42,3 +43,7 @@ date: Shortcuts to daily life and work.
 + This site is using [theOne theme](https://github.com/pizn/blogTheme). It is designed by [PIZn](http://www.pizn.net/14-11-2012/theone-blog-theme/). Thanks so much for this simple and clean style.     
 
 <p></p>
+
+</article>  
+
+
