@@ -33,7 +33,7 @@ date: Shortcuts to daily life and work.
 </ul>
 
 ### [Work Cal](https://www.google.com/calendar/embed?src=tqa202la1dnrb70ld90094d31c%40group.calendar.google.com&ctz=Asia/Hong_Kong)
-<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=400&amp;wkst=2&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=tqa202la1dnrb70ld90094d31c%40group.calendar.google.com&amp;color=%232F6309&amp;src=zh_cn.hong_kong%23holiday%40group.v.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FHong_Kong" style=" border-width:0 " width="100%" height="400" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=WEEK&amp;height=400&amp;wkst=2&amp;hl=en&amp;bgcolor=%23ffffff&amp;src=tqa202la1dnrb70ld90094d31c%40group.calendar.google.com&amp;color=%232F6309&amp;src=zh_cn.hong_kong%23holiday%40group.v.calendar.google.com&amp;color=%231B887A&amp;ctz=Asia%2FHong_Kong" style=" border-width:0 " height="400" frameborder="0" scrolling="no"></iframe>
 <p></p>
      
 ### [Notes]({{ site.url }}{% post_url 2012-06-28-jekyll-notes %}) about this blog
