@@ -144,7 +144,6 @@ description: Websites for everyday life.
     <tr><th>Download</th><td>       </td><td><a href="http://www.yyets.com">人人影视 YYets</a>, HD movies</td></tr>
     <tr><th>        </th><td>       </td><td><a href="http://www.dygod.org">电影天堂</a>, movie and episodes</td></tr>
     <tr><th>        </th><td>       </td><td><a href="http://www.ttmeiju.com">天天美剧</a>, Download through QQdownload
-    <tr><th>        </th><td>torrent</td><td><a href="http://isohunt.com">isohunt</a>, bt seeds</td></tr>
     <tr><th>        </th><td>       </td><td><a href="http://thepiratebay.se">Pirate Bay</a>, bt seeds</td></tr>
     <tr><th>        </th><td>ed2k   </td><td><a href="http://simplecd.me">SimpleCD</a>, ed2k resources</td></tr>
     <tr><th>        </th><td>tools  </td><td><a href="http://keepvid.com">KEEPVID</a>, download youtube videos</td></tr>
@@ -201,9 +200,6 @@ description: Websites for everyday life.
 
 ### Promotions    
 + [GetJetso.com](http://www.getjetso.com/)
-
-### Track Your Express    
-+ [Track with Number](http://www.yto5.cn/)
 
 ## SiteIsDownOrBlocked    
 + Use [this site](http://isdownorblocked.com/) to chek other sites.    
