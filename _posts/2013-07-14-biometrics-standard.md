@@ -1,6 +1,6 @@
 ---
 layout      : post
-tage        : [biometrics, standard]
+tags        : [biometrics, standard]
 title       : Biometric Standards
 description : Standards, organizations in biometrcis.
 ---

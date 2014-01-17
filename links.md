@@ -1,14 +1,13 @@
 ---
 layout: default
 title: Links
-date: Shortcuts to daily life and work.
+date: Useful links.
 ---
 
 <article class="post">
 
 ![My Lovely Son]({{ site.imageLink }})
 
-### [Life]({{ site.url }}{% post_url 2012-08-09-life-in-hong-kong-and-shenzhen %})
 + [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
 + [Kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
 

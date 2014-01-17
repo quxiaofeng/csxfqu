@@ -1,6 +1,6 @@
 ---
 layout      : post
-tage        : [web, latex]
+tags        : [web, latex]
 title       : LaTeX 向 MathML 的转换 
 description : Tools, libs, research and method about translating LaTeX code to MathML code.
 ---

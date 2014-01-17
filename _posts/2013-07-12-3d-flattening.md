@@ -1,6 +1,6 @@
 ---
 layout      : post
-tage        : [3d]
+tags        : [3d]
 title       : 3D Flattening Tools and Libs 
 description : Software, tools, libs, and code about 3D to 2D flattening.
 ---

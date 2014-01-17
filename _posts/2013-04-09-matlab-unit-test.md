@@ -1,6 +1,6 @@
 ---
 layout      : post
-tage        : [matlab, coding, testing]
+tags        : [matlab, coding, testing]
 title       : Matlab R2013a Unit Test / Matlab R2013a 单元测试
 description : Classes, How-tos and Examples
 ---
