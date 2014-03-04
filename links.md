@@ -8,9 +8,6 @@ date: Useful links.
 
 ![My Lovely Son]({{ site.imageLink }})
 
-+ [Joke]({{ site.url }}{% post_url 2012-10-27-jokes %})
-+ [Kindle]({{ site.url }}{% post_url 2012-07-04-kindle-resources %})
-
 <h3>Links</h3>
 <h4>Code Repo</h4>
 <ul>

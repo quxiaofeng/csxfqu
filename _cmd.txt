@@ -1,0 +1,12 @@
+rm _site/ -rf
+
+rm /medie/exchange/* -rf
+
+
+jekyll build
+
+sudo mount -t vboxsf exchange /media/exchange
+
+cp _site/ /media/exchange/ -rf
+
+rm _site/ -rf
