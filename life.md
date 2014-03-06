@@ -28,17 +28,21 @@ date: Websites for everyday life.
 
 + [Observatory](http://www.hko.gov.hk/wxinfo/currwx/fndc.htm)
 
-#### Banks
+#### Banks in HK
 
 + [HangSeng](https://e-banking1.hangseng.com)
 + [BEA](https://mobile.hkbea-cyberbanking.com/servlet/FRLogon)
 + [Standard Chartered](https://ibank.standardchartered.com.hk/nfs/login.htm)
 + [PPS](https://www.ppshk.com/hkt/revamp2/Chinese/LoginPage.html)
 
+#### Bank in SZ
+
++ [招商银行](https://www.cmbchina.com/)
+
 #### Currencies
 
 + [XE](http://www.xe.com/zh-CN/currencyconverter/convert/?Amount=100&From=HKD&To=CNY)
-+ [Bank of China Exchange Rate](http://www.boc.cn/sourcedb/whpj/)
++ [中国银行外汇牌价](http://www.boc.cn/sourcedb/whpj/)
 
 #### Cellphone
 
@@ -69,6 +73,10 @@ date: Websites for everyday life.
     <tr>
         <th>Hong Kong SAR</th>
         <td><a href="http://www.ifeng.com">凤凰网(iFeng.com)</a></td>
+    </tr>
+    <tr>
+        <th></th>
+        <td><a href="http://www.thestandard.com.hk">The Standard</a></td>
     </tr>
     <tr>
         <th></th>
@@ -104,15 +112,19 @@ date: Websites for everyday life.
     </tr>
     <tr>
         <th></th>
-        <td><a href="http://sankei.jp.msn.com/">MSN産経ニュース</a></td>
+        <td><a href="http://sankei.jp.msn.com">MSN産経ニュース</a></td>
     </tr>
      <tr>
         <th></th>
-        <td><a href="http://www.yomiuri.co.jp/">読売新聞</a></td>
+        <td><a href="http://www.yomiuri.co.jp">読売新聞</a></td>
     </tr>
      <tr>
         <th></th>
-        <td><a href="http://www.nikkei.com/">日本経済新聞</a></td>
+        <td><a href="http://www.nikkei.com">日本経済新聞</a></td>
+    </tr>
+     <tr>
+        <th></th>
+        <td><a href="http://www.mod.go.jp/js/Press/press2014.htm">防衛省・統合幕僚監部ホームページ</a></td>
     </tr>
 </tbody>
 </table>
@@ -131,43 +143,40 @@ date: Websites for everyday life.
 <table>
 <tbody>
     <tr><th>Video 2.0</th><th>World</th><td><a href="http://www.youtube.com">YouTube</a></td></tr>
-    <tr><th>Episodes with copyright</th><th>China PRC</th><td><a href="http://v.qq.com/">Tencent Video</a></td></tr>
-     <tr><th>LiveTV   </th><th>China PRC</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
-    <tr><th>         </th><th>Russian</th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
-    <tr><th>Cartoon  </th><th>        </th><td><a href="http://www.letv.com">乐视网</a></td></tr>
-    <tr><th>         </th><th>        </th><td><a href="http://www.bilibili.tv">哔哩哔哩</a></td></tr>
+    <tr><th>Episodes with copyright</th><th>China PRC</th><td><a href="http://v.qq.com/">腾讯视频 (Tencent Video)</a></td></tr>
+     <tr><th>LiveTV</th><th>China PRC</th><td><a href="http://www.fengyunzhibo.com">风云直播</a></td></tr>
+    <tr><th></th><th>Russian</th><td><a href="http://rt.com/on-air">Russian TImes</a></td></tr>
+    <tr><th>Cartoon</th><th></th><td><a href="http://www.letv.com">乐视网</a></td></tr>
+    <tr><th></th><th></th><td><a href="http://www.bilibili.tv">哔哩哔哩</a></td></tr>
 </tbody>
 </table>
 
 ## Video Download Site
 
-<table>
-<tbody>
-    <tr><th>Download</th><td>       </td><td><a href="http://www.yyets.com">人人影视 YYets</a>, HD movies</td></tr>
-    <tr><th>        </th><td>       </td><td><a href="http://www.dygod.org">电影天堂</a>, movie and episodes</td></tr>
-    <tr><th>        </th><td>       </td><td><a href="http://www.ttmeiju.com">天天美剧</a>, Download through QQdownload
-    <tr><th>        </th><td>       </td><td><a href="http://thepiratebay.se">Pirate Bay</a>, bt seeds</td></tr>
-    <tr><th>        </th><td>ed2k   </td><td><a href="http://simplecd.me">SimpleCD</a>, ed2k resources</td></tr>
-    <tr><th>        </th><td>tools  </td><td><a href="http://keepvid.com">KEEPVID</a>, download youtube videos</td></tr>
-    <tr><th>        </th><td>       </td><td><a href="http://www.flvcd.com">硕鼠</a>, download youku videos</td></tr>
-    <tr><th>        </th><td>OS     </td><td><a href="http://zxkh19501.blog.163.com">无约而来</a></td></tr>
-</tbody>
-</table>
++ <a href="http://www.yyets.com">人人影视 YYets</a>, HD movie.
++ <a href="http://www.dygod.org">电影天堂</a>, RMVB format.
++ <a href="http://www.ttmeiju.com">天天美剧</a>, HD movie and episodes.
++ <a href="http://thepiratebay.se">Pirate Bay</a>, bt seeds.
++ <a href="http://simplecd.me">SimpleCD</a>, ed2k.
++ <a href="http://keepvid.com">KEEPVID</a>, download youtube videos.
++ <a href="http://www.flvcd.com">硕鼠</a>, download youku and tudou videos.
++ <a href="http://zxkh19501.blog.163.com">无约而来</a>, OS.
 
 ## Cinemas
+
 <table>
 <tbody>
     <tr><th>Hong Kong </th>
         <td>A Movie <a href="http://media.netvigator.com/media/bse/media/home/MVE/MVE_MOV.jsp">Navigator</a></td></tr>
-    <tr><th>          </th>
+    <tr><th></th>
         <td><a href="http://www.goldenharvest.com">Golden Harvest</a></td></tr>
-    <tr><th>          </th>
+    <tr><th></th>
         <td><a href="http://www.uacinemas.com.hk/eng/main/HomePage">UA</a></td></tr>
     <tr><th>Shenzhen  </th>
         <td><a href="http://www.szxhfilm.com">Century Starlight / 中影世纪星辉</a></td></tr>
-    <tr><th>          </th>
+    <tr><th></th>
         <td><a href="http://theater.mtime.com/China_Guangdong_Province_Shenzen">Mtime.com</a></td></tr>
-    <tr><th>          </th>
+    <tr><th></th>
         <td><a href="http://movie.douban.com/nowplaying/shenzhen">Douban Movies</a></td></tr>
 </tbody>
 </table>
@@ -175,6 +184,7 @@ date: Websites for everyday life.
 ## Shopping
 
 ### IT Products
+
 <table>
 <tbody>
     <tr><th>Official  </th>
@@ -196,16 +206,12 @@ date: Websites for everyday life.
 </tbody>
 </table>
 
+
 ### Consmetic    
 + [Bonjour](http://www.bonjourhk.com/tc/main.aspx)
 + [SaSa](http://web1.sasa.com/SasaWeb/tch/sasa/home.jsp)
 
 ### Promotions    
 + [GetJetso.com](http://www.getjetso.com/)
-
-## SiteIsDownOrBlocked    
-+ Use [this site](http://isdownorblocked.com/) to chek other sites.    
-+ [Host auto update script](http://qiujj.com/static/28001-fgqi.txt)    
-
 
 </article>
