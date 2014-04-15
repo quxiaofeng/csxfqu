@@ -8,9 +8,11 @@ date: Résumé
 Qu, Xiao Feng / 曲晓峰
 -------------------
 
-Ph.D. Candidate
-<a href="http://www.comp.polyu.edu.hk/en/home/index.php" target="_blank">Department of Computing</a>
+<p>
+Ph.D. Candidate<br>
+<a href="http://www.comp.polyu.edu.hk/en/home/index.php" target="_blank">Department of Computing</a><br>
 <a href="http://www.polyu.edu.hk/cpa/polyu/index.php" target="_blank">The Hong Kong Polytechnic University</a>
+</p>
 
 ### Lab ###
 <a href="http://www4.comp.polyu.edu.hk/~biometrics/" target="_blank">Biometrics Research Centre (BRC)</a>
